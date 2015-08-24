@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MistweaverHealSettings>
+  <SavedToFile>True</SavedToFile>
+  <HealFromMelee>True</HealFromMelee>
+  <RenewingMist>99</RenewingMist>
+  <SoothingMist>93</SoothingMist>
+  <EnvelopingMist>80</EnvelopingMist>
+  <SurgingMist>60</SurgingMist>
+  <LifeCocoon>50</LifeCocoon>
+  <ThunderFocusHealSingle>35</ThunderFocusHealSingle>
+  <RollRenewingMistCount>4</RollRenewingMistCount>
+  <ThunderFocusHealGroup>70</ThunderFocusHealGroup>
+  <CountThunderFocusHealGroup>4</CountThunderFocusHealGroup>
+  <UpliftGroup>85</UpliftGroup>
+  <CountUpliftGroup>3</CountUpliftGroup>
+  <SpinningCraneKickGroup>95</SpinningCraneKickGroup>
+  <CountSpinningCraneKickGroup>4</CountSpinningCraneKickGroup>
+  <Revival>65</Revival>
+  <CountRevival>4</CountRevival>
+  <ZenSphereTalent>60</ZenSphereTalent>
+  <ChiWave>60</ChiWave>
+  <CountChiWave>1</CountChiWave>
+  <ChiBurstTalent>60</ChiBurstTalent>
+  <CountChiBurstTalent>1</CountChiBurstTalent>
+</MistweaverHealSettings>

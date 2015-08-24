@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LazyRaiderSettings>
+  <NoTank>False</NoTank>
+  <FollowTank>False</FollowTank>
+  <FollowDistance>30</FollowDistance>
+  <AutoTankSelect>True</AutoTankSelect>
+  <AutoTarget>True</AutoTarget>
+  <AutoTargetOnlyIfNotValidTarget>True</AutoTargetOnlyIfNotValidTarget>
+  <AutoAttack>True</AutoAttack>
+  <DismountOnlyWithTankOrUser>True</DismountOnlyWithTankOrUser>
+  <DisablePlugins>True</DisablePlugins>
+  <LockMemory>False</LockMemory>
+  <FPS>15</FPS>
+  <PauseKey>RSHIFT</PauseKey>
+  <PauseWhileKeyPressed>False</PauseWhileKeyPressed>
+  <ShowPauseMessageInGame>True</ShowPauseMessageInGame>
+  <ShowPauseMessageMilliseconds>1750</ShowPauseMessageMilliseconds>
+  <RaidBot>False</RaidBot>
+  <CharacterManager>True</CharacterManager>
+</LazyRaiderSettings>

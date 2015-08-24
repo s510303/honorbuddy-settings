@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PriestSettings>
+  <ShadowFlashHeal>30</ShadowFlashHeal>
+  <PrayerOfMending>0</PrayerOfMending>
+  <MindFlayManaPct>25</MindFlayManaPct>
+  <VampiricEmbracePct>60</VampiricEmbracePct>
+  <VampiricEmbraceCount>3</VampiricEmbraceCount>
+  <DispersionMana>20</DispersionMana>
+  <DontHealPercent>40</DontHealPercent>
+  <TalentTier6Count>3</TalentTier6Count>
+  <UseShieldPrePull>True</UseShieldPrePull>
+  <PowerWordShield>60</PowerWordShield>
+  <CountMassDispel>0</CountMassDispel>
+  <UseFade>True</UseFade>
+  <CrowdControlHealth>50</CrowdControlHealth>
+  <PsychicScreamAllow>True</PsychicScreamAllow>
+  <PsychicScreamAddCount>4</PsychicScreamAddCount>
+  <PsychicScreamHealth>25</PsychicScreamHealth>
+  <UseFearWard>True</UseFearWard>
+  <AllowKiting>True</AllowKiting>
+  <ShadowfiendMana>75</ShadowfiendMana>
+  <DesperatePrayerHealth>30</DesperatePrayerHealth>
+  <UseSpeedBuff>True</UseSpeedBuff>
+  <UseSpeedBuffOnTank>True</UseSpeedBuffOnTank>
+  <UseLeapOfFaith>True</UseLeapOfFaith>
+</PriestSettings>

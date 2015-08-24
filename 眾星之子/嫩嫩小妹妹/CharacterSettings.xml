@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <SelectTalents>True</SelectTalents>
+  <ClassProfileName>Warlock - Destruction</ClassProfileName>
+  <AutoEquip>True</AutoEquip>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <TicksPerSecond>15</TicksPerSecond>
+  <FoodAmount>5</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <EnabledPlugins>
+    <Entry>Anti Drown</Entry>
+    <Entry>Refreshment Detection</Entry>
+    <Entry>▽惆劑脣璃▼逄秞惆劑脣璃</Entry>
+  </EnabledPlugins>
+  <RecentProfiles>
+    <Entry>[N-Quest] (80-81) Icecrow [Cava] $Rev: 390 $@@!@@D:\腳本\CAVA3\Scripts\[N-Quest](80-81)Icecrow[Cava].xml</Entry>
+    <Entry>[Fly][A - Quest] 68-80 [Kick] ($Rev: 3932 $)@@!@@store:///1-100 Questing Profile Pack/LK/[Fly][A - Quest] LK 68-80 [Kick].xml</Entry>
+    <Entry>EK to BC [Kick] ($Rev: 3552 $)@@!@@E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\GoTo\EK to BC.xml</Entry>
+    <Entry>[A - Quest] EK 12-58 [Kick] ($Rev: 3946 $)@@!@@E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Classic\[A - Quest] 1-58 [Kick]\[A - Quest] EK 12-58 [Kick].xml</Entry>
+    <Entry>[A - Quest] EK 5-12 [Kick] ($Rev: 3485 $)@@!@@E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Classic\[A - Quest] 1-58 [Kick]\[A - Quest] 1-12 [Kick]\[A - Quest] EK 5-12 [Kick].xml</Entry>
+  </RecentProfiles>
+  <OverrideProfileSettings>False</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>True</SellWhite>
+  <SellGreen>True</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <SelectedBotName>任务模式</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>False</FindMountAutomatically>
+  <UseRandomMount>False</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName>39691</FoodName>
+  <DrinkName>39691</DrinkName>
+  <MountName>阿曼尼戰熊</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>True</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LootRadius>45</LootRadius>
+  <LastUsedPath>D:\腳本\CAVA3\Scripts\[N-Quest](80-81)Icecrow[Cava].xml</LastUsedPath>
+  <MountDistance>60</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</CharacterSettings>

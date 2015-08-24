@@ -1,0 +1,835 @@
+{
+  "EndOfRunParkingLocation": {
+    "X": 2134.90356,
+    "Y": 381.928864,
+    "Z": 16.3351288,
+    "MagnitudeSqr": 4703949.5,
+    "Magnitude": 2168.85913
+  },
+  "MinimumFreeBagSlots": 2,
+  "MailCollectedItems": true,
+  "BankCollectedItems": true,
+  "OpenItemTokens": true,
+  "SolveArchaeology": false,
+  "EnableFollowerUpgrading": false,
+  "Buildings": [
+    {
+      "$type": "GarrisonBuddy.Logic.Buildings.Prebuilt.MineBuildingSettings, Honorbuddy",
+      "MaxCoffeeStacks": 5,
+      "UseMinersCoffee": true,
+      "UseMiningPick": true,
+      "CollectMinerals": true,
+      "Type": "Mines",
+      "Enabled": true,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 1,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "$type": "GarrisonBuddy.Logic.Buildings.Prebuilt.HerbGardenBuildingSettings, Honorbuddy",
+      "CollectHerbs": true,
+      "Type": "HerbGarden",
+      "Enabled": true,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 2,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "$type": "GarrisonBuddy.Logic.Buildings.Medium.TradingPostBuildingSettings, Honorbuddy",
+      "Buyouts": [
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Abyssal Gulper Eel Flesh",
+          "ItemId": 109143,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Blackrock Ore",
+          "ItemId": 109118,
+          "MerchantId": 87202,
+          "MerchantName": "Trader Yula",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Blackwater Whiptail Flesh",
+          "ItemId": 109144,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Blind Lake Sturgeon Flesh",
+          "ItemId": 109140,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Crescent Saberfish Flesh",
+          "ItemId": 109137,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Draenic Dust",
+          "ItemId": 109693,
+          "MerchantId": 87201,
+          "MerchantName": "Pyxni Pennypocket",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Fat Sleeper Flesh",
+          "ItemId": 109139,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Fire Ammonite Tentacle",
+          "ItemId": 109141,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Fireweed",
+          "ItemId": 109125,
+          "MerchantId": 87201,
+          "MerchantName": "Pyxni Pennypocket",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Frostweed",
+          "ItemId": 109124,
+          "MerchantId": 87201,
+          "MerchantName": "Pyxni Pennypocket",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Gorgrond Flytrap",
+          "ItemId": 109126,
+          "MerchantId": 87201,
+          "MerchantName": "Pyxni Pennypocket",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Jawless Skulker Flesh",
+          "ItemId": 109138,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Nagrand Arrowbloom",
+          "ItemId": 109128,
+          "MerchantId": 87201,
+          "MerchantName": "Pyxni Pennypocket",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Raw Beast Hide",
+          "ItemId": 110609,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Raw Boar Meat",
+          "ItemId": 109136,
+          "MerchantId": 87200,
+          "MerchantName": "Krixel Pinchwhistle",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Raw Clefthoof Meat",
+          "ItemId": 109132,
+          "MerchantId": 87200,
+          "MerchantName": "Krixel Pinchwhistle",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Raw Elekk Meat",
+          "ItemId": 109134,
+          "MerchantId": 87200,
+          "MerchantName": "Krixel Pinchwhistle",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Raw Riverbeast Meat",
+          "ItemId": 109135,
+          "MerchantId": 87200,
+          "MerchantName": "Krixel Pinchwhistle",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Raw Talbuk Meat",
+          "ItemId": 109132,
+          "MerchantId": 87200,
+          "MerchantName": "Krixel Pinchwhistle",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Rylak Egg",
+          "ItemId": 109133,
+          "MerchantId": 87200,
+          "MerchantName": "Krixel Pinchwhistle",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Sea Scorpion Segment",
+          "ItemId": 109142,
+          "MerchantId": 87203,
+          "MerchantName": "Talgaiir the Ironrender",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Starflower",
+          "ItemId": 109127,
+          "MerchantId": 87201,
+          "MerchantName": "Pyxni Pennypocket",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Sumptuous Fur",
+          "ItemId": 111557,
+          "MerchantId": 87202,
+          "MerchantName": "Trader Yula",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "Talador Orchid",
+          "ItemId": 109129,
+          "MerchantId": 87201,
+          "MerchantName": "Pyxni Pennypocket",
+          "Comment": "Alliance"
+        },
+        {
+          "Enabled": false,
+          "KeepMinimum": 200,
+          "ResourceMinimum": 7500,
+          "ItemName": "True Iron Ore",
+          "ItemId": 109119,
+          "MerchantId": 87202,
+          "MerchantName": "Trader Yula",
+          "Comment": "Alliance"
+        }
+      ],
+      "WorkOrderLimits": [
+        {
+          "ItemId": 109118,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "Blackrock Ore"
+        },
+        {
+          "ItemId": 109119,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "True Iron Ore"
+        },
+        {
+          "ItemId": 109127,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "Starflower"
+        },
+        {
+          "ItemId": 109124,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "Frostweed"
+        },
+        {
+          "ItemId": 109125,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "Fireweed"
+        },
+        {
+          "ItemId": 109126,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "Gorgrond Flytrap"
+        },
+        {
+          "ItemId": 109129,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "Talador Orchid"
+        },
+        {
+          "ItemId": 109128,
+          "KeepMinimum": 0,
+          "Enabled": true,
+          "Comment": "Nagrand Arrowbloom"
+        },
+        {
+          "ItemId": 109693,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Draenic Dust"
+        },
+        {
+          "ItemId": 111557,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Sumptuous Fur"
+        },
+        {
+          "ItemId": 110609,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Raw Beast Hide"
+        },
+        {
+          "ItemId": 109136,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Raw Boar Meat"
+        },
+        {
+          "ItemId": 109135,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Raw Riverbeast Meat"
+        },
+        {
+          "ItemId": 109134,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Raw Elekk Meat"
+        },
+        {
+          "ItemId": 109133,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Rylak Egg"
+        },
+        {
+          "ItemId": 109132,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Raw Talbuk Meat"
+        },
+        {
+          "ItemId": 109132,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Raw Clefthoof Meat"
+        },
+        {
+          "ItemId": 109144,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Blackwater Whiptail Flesh"
+        },
+        {
+          "ItemId": 109143,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Abyssal Gulper Eel Flesh"
+        },
+        {
+          "ItemId": 109142,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Sea Scorpion Segment"
+        },
+        {
+          "ItemId": 109141,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Fire Ammonite Tentacle"
+        },
+        {
+          "ItemId": 109140,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Blind Lake Sturgeon Flesh"
+        },
+        {
+          "ItemId": 109139,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Fat Sleeper Flesh"
+        },
+        {
+          "ItemId": 109138,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Jawless Skulker Flesh"
+        },
+        {
+          "ItemId": 109137,
+          "KeepMinimum": 0,
+          "Enabled": false,
+          "Comment": "Crescent Saberfish Flesh"
+        }
+      ],
+      "Type": "TradingPost",
+      "Enabled": true,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": null,
+      "Priority": 6,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "$type": "GarrisonBuddy.Logic.Buildings.Large.WarMillBuildingSettings, Honorbuddy",
+      "DailyQuestHandInType": "Random",
+      "Type": "WarMill",
+      "Enabled": true,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": {
+        "Enabled": false,
+        "KeepMinimum": 500,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 10,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "LumberMill",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 4,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Barn",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 3,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "GladiatorsSanctum",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 25,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Fishing",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": false,
+      "Tradeskills": null,
+      "WorkOrder": null,
+      "Priority": 24,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Inn",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": null,
+      "Priority": 5,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "SalvageYard",
+      "Enabled": true,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 14,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Stables",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": null,
+      "Priority": 11,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "SpiritLodge",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": null,
+      "Priority": 13,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Barracks",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": null,
+      "Priority": 8,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Storehouse",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": null,
+      "WorkOrder": null,
+      "Priority": 15,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Alchemy",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 175880,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 156587,
+          "Name": "Alchemical Catalyst"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 181643,
+          "Name": "Savage Blood"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 16,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Enchanting",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 177043,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 169092,
+          "Name": "Temporal Crystal"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 18,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Engineering",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 177054,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 169080,
+          "Name": "Gearspring Parts"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 19,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Inscription",
+      "Enabled": true,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 177045,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 169081,
+          "Name": "War Paints"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": false,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 20,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Leatherworking",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 176089,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 171391,
+          "Name": "Burnished Leather"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 22,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Jewelcrafting",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 176087,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 170700,
+          "Name": "Taladite Crystal"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 21,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Tailoring",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 176058,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 168835,
+          "Name": "Hexweave Cloth"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 23,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    },
+    {
+      "Type": "Blacksmithing",
+      "Enabled": false,
+      "IgnoreBankItems": false,
+      "CollectShipments": true,
+      "Tradeskills": [
+        {
+          "Enabled": false,
+          "TradeskillSpellId": 176090,
+          "Name": "Secret of Draenor"
+        },
+        {
+          "Enabled": true,
+          "TradeskillSpellId": 171690,
+          "Name": "Truesteel"
+        }
+      ],
+      "WorkOrder": {
+        "Enabled": true,
+        "KeepMinimum": 0,
+        "KeepMinimumSecondary": 0
+      },
+      "Priority": 17,
+      "BlizzardTransferWorkOrderOffset": 0,
+      "BlizzardTransferQuestOverride": null
+    }
+  ],
+  "MillStarflower": true,
+  "MillFrostweed": false,
+  "MillFireweed": true,
+  "MillGorgrondFlytrap": true,
+  "MillTaladorOrchid": true,
+  "MillNagrandArrowbloom": true,
+  "DisableMissions": true,
+  "MissionPlanningStrategy": "By Gold Gained",
+  "MinimumMissionSuccess": 85.0
+}

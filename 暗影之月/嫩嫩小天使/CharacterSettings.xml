@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <SelectTalents>True</SelectTalents>
+  <ClassProfileName>Priest - Holy</ClassProfileName>
+  <AutoEquip>True</AutoEquip>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <TicksPerSecond>15</TicksPerSecond>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <EnabledPlugins>
+    <Entry>Anti Drown</Entry>
+    <Entry>HBRelogHelper</Entry>
+    <Entry>Questhelper - ItemForAura</Entry>
+    <Entry>Refreshment Detection</Entry>
+  </EnabledPlugins>
+  <RecentProfiles>
+    <Entry>[A - Quest] 96-98 Arak [Kick] ($Rev: 3660$)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 回收廠任務.xml</Entry>
+    <Entry>Master Relic Hunter - by ArmyDr@@!@@D:\腳本\[QB] Master Relic Hunter.xml</Entry>
+    <Entry>[A - Quest] 98-100 Nagrand [Kick] ($Rev: 3962 $)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 98-100 Nagrand [Kick].xml</Entry>
+  </RecentProfiles>
+  <OverrideProfileSettings>True</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>False</MailBlue>
+  <MailPurple>False</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <SelectedBotName>LazyRaider</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <UseRandomMount>False</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName></FoodName>
+  <DrinkName></DrinkName>
+  <MountName>阿曼尼戰熊</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>True</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LootRadius>45</LootRadius>
+  <LastUsedPath>E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
+  <MountDistance>60</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</CharacterSettings>

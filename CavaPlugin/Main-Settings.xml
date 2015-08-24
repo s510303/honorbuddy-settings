@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CPGlobalSettings>
+  <BotAllowUpdate>False</BotAllowUpdate>
+  <AllowUpdate>False</AllowUpdate>
+  <Allowlunch>False</Allowlunch>
+  <BaseProfileToLunch>1</BaseProfileToLunch>
+  <AutoShutdownWhenUpdate>False</AutoShutdownWhenUpdate>
+  <PBMiningBlacksmithing>False</PBMiningBlacksmithing>
+  <BotPBMiningBlacksmithing>False</BotPBMiningBlacksmithing>
+  <language>0</language>
+  <Languageselected>False</Languageselected>
+  <CpLogin></CpLogin>
+  <CpPassword></CpPassword>
+  <CpPanelBack>False</CpPanelBack>
+  <ArmaPanelBack>False</ArmaPanelBack>
+  <ProfMinBlack600>False</ProfMinBlack600>
+  <UseServer>1</UseServer>
+  <DisablePlugin>True</DisablePlugin>
+</CPGlobalSettings>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WarriorSettings>
+  <WarriorShieldWallHealth>30</WarriorShieldWallHealth>
+  <WarriorLastStandHealth>20</WarriorLastStandHealth>
+  <WarriorShieldBlockHealth>50</WarriorShieldBlockHealth>
+  <WarriorShieldBarrierHealth>80</WarriorShieldBarrierHealth>
+  <WarriorEnragedRegenerationHealth>50</WarriorEnragedRegenerationHealth>
+  <UseWarriorInterrupts>True</UseWarriorInterrupts>
+  <UseWarriorSlows>True</UseWarriorSlows>
+  <StanceSelected>Auto</StanceSelected>
+  <UseWarriorCloser>True</UseWarriorCloser>
+  <Shout>BattleShout</Shout>
+  <VictoryRushOnCooldown>False</VictoryRushOnCooldown>
+  <DieByTheSwordHealth>50</DieByTheSwordHealth>
+  <VigilanceHealth>50</VigilanceHealth>
+</WarriorSettings>

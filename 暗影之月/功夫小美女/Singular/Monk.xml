@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MonkSettings>
+  <DisableRoll>False</DisableRoll>
+  <FortifyingBrewPct>60</FortifyingBrewPct>
+  <DampenHarmPct>60</DampenHarmPct>
+  <DampenHarmCount>60</DampenHarmCount>
+  <ChiWavePct>70</ChiWavePct>
+  <StunMobsWhileSolo>True</StunMobsWhileSolo>
+  <SpinningCraneKickCnt>4</SpinningCraneKickCnt>
+  <ElusiveBrewMinumumCount>6</ElusiveBrewMinumumCount>
+  <UseElusiveBrew>True</UseElusiveBrew>
+  <GuardHealthPct>90</GuardHealthPct>
+  <GuardMobCount>2</GuardMobCount>
+  <UseSef>True</UseSef>
+  <AllowOffHeal>True</AllowOffHeal>
+  <ExpelHarmHealth>65</ExpelHarmHealth>
+  <TigereyeBrewHealth>30</TigereyeBrewHealth>
+  <ManaTeaPercentInstant>85</ManaTeaPercentInstant>
+  <ManaTeaPercent>60</ManaTeaPercent>
+  <SurgingMist>40</SurgingMist>
+</MonkSettings>

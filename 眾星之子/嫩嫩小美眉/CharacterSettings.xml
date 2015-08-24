@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <SelectTalents>True</SelectTalents>
+  <ClassProfileName>Warlock - Destruction</ClassProfileName>
+  <AutoEquip>True</AutoEquip>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <TicksPerSecond>15</TicksPerSecond>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <RecentProfiles>
+    <Entry>火源之界單刷副本@@!@@D:\腳本\CAVA3\Scripts\空腳本.xml</Entry>
+    <Entry>[Fly][H - Quest] BC 58-70 [Kick]($Rev: 3918 $)@@!@@D:\SVN\Questing Profile Pack\BC\[Fly][H - Quest] BC 58-70 [Kick].xml</Entry>
+    <Entry>[Fly][H - Quest] BC 58-70 [Kick]($Rev: 3918 $)@@!@@store:///1-100 Questing Profile Pack/BC/[Fly][H - Quest] BC 58-70 [Kick].xml</Entry>
+    <Entry>[H-Quest] (57-60) Blasted Lands [Cava] $Rev: 400 $@@!@@D:\腳本\CAVA3\Scripts\[H-Quest](57-60)BlastedLands[Cava].xml</Entry>
+    <Entry>Move to Main City[Cava] $Rev: 375 $@@!@@D:\腳本\CAVA3\Scripts\MovetoMainCity[Cava].xml</Entry>
+  </RecentProfiles>
+  <OverrideProfileSettings>False</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>True</SellWhite>
+  <SellGreen>True</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <SelectedBotName>任务模式</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>False</FindMountAutomatically>
+  <UseRandomMount>False</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName>27854</FoodName>
+  <DrinkName>28399</DrinkName>
+  <MountName>黑色陸行鷹</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>True</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LootRadius>45</LootRadius>
+  <LastUsedPath>D:\腳本\CAVA3\Scripts\空腳本.xml</LastUsedPath>
+  <MountDistance>60</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</CharacterSettings>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PersistentSettings>
+  <Hotkey_Modifier>0</Hotkey_Modifier>
+  <Hotkey_Movement>0</Hotkey_Movement>
+  <Hotkey_Targeting>0</Hotkey_Targeting>
+  <Hotkey_Facing>0</Hotkey_Facing>
+  <Hotkey_AoE>0</Hotkey_AoE>
+  <Hotkey_Burst>0</Hotkey_Burst>
+  <Hotkey_Cooldowns>0</Hotkey_Cooldowns>
+  <Hotkey_SlowFall>0</Hotkey_SlowFall>
+  <Hotkey_PolymorphTarget_Modifier>0</Hotkey_PolymorphTarget_Modifier>
+  <Hotkey_PolymorphTarget_Key>0</Hotkey_PolymorphTarget_Key>
+  <Hotkey_PolymorphFocus_Modifier>0</Hotkey_PolymorphFocus_Modifier>
+  <Hotkey_PolymorphFocus_Key>0</Hotkey_PolymorphFocus_Key>
+  <Hotkey_PolymorphMouseover_Modifier>0</Hotkey_PolymorphMouseover_Modifier>
+  <Hotkey_PolymorphMouseover_Key>0</Hotkey_PolymorphMouseover_Key>
+  <Hotkey_RoFSelf_Modifier>0</Hotkey_RoFSelf_Modifier>
+  <Hotkey_RoFSelf_Key>0</Hotkey_RoFSelf_Key>
+  <Hotkey_RoFMouseover_Modifier>0</Hotkey_RoFMouseover_Modifier>
+  <Hotkey_RoFMouseover_Key>0</Hotkey_RoFMouseover_Key>
+  <Hotkey_PetFreezeMouseover_Modifier>0</Hotkey_PetFreezeMouseover_Modifier>
+  <Hotkey_PetFreezeMouseover_Key>0</Hotkey_PetFreezeMouseover_Key>
+  <Hotkey_PrismaticCrystalMouseover_Modifier>0</Hotkey_PrismaticCrystalMouseover_Modifier>
+  <Hotkey_PrismaticCrystalMouseover_Key>0</Hotkey_PrismaticCrystalMouseover_Key>
+  <Hotkey_MeteorMouseover_Modifier>0</Hotkey_MeteorMouseover_Modifier>
+  <Hotkey_MeteorMouseover_Key>0</Hotkey_MeteorMouseover_Key>
+  <Hotkey_PauseNonMovementKeyPress>False</Hotkey_PauseNonMovementKeyPress>
+  <Hotkey_PauseNonMovementKeyPressDuration>500</Hotkey_PauseNonMovementKeyPressDuration>
+  <EnableOverlay>True</EnableOverlay>
+  <OverlayFontSize>14</OverlayFontSize>
+  <OverlayXPos>0</OverlayXPos>
+  <OverlayYPos>0</OverlayYPos>
+</PersistentSettings>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HolyPriestHealSettings>
+  <SavedToFile>True</SavedToFile>
+  <FlashHealAdjusted>False</FlashHealAdjusted>
+  <PowerWordShield>100</PowerWordShield>
+  <Renew>95</Renew>
+  <PrayerOfMending>94</PrayerOfMending>
+  <Heal>0</Heal>
+  <FlashHeal>80</FlashHeal>
+  <BindingHeal>55</BindingHeal>
+  <HolyLevel90Talent>85</HolyLevel90Talent>
+  <HolyWordSanctuary>95</HolyWordSanctuary>
+  <HolyWordSerenity>85</HolyWordSerenity>
+  <CircleOfHealing>90</CircleOfHealing>
+  <PrayerOfHealing>85</PrayerOfHealing>
+  <DivineHymn>75</DivineHymn>
+  <GuardianSpirit>35</GuardianSpirit>
+  <CountHolyWordSanctuary>3</CountHolyWordSanctuary>
+  <CountLevel90Talent>3</CountLevel90Talent>
+  <CountCircleOfHealing>3</CountCircleOfHealing>
+  <CountPrayerOfHealing>3</CountPrayerOfHealing>
+  <CountDivineHymn>4</CountDivineHymn>
+  <CountPrayerOfMending>3</CountPrayerOfMending>
+</HolyPriestHealSettings>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <SelectTalents>True</SelectTalents>
+  <ClassProfileName>Hunter - Marksmanship</ClassProfileName>
+  <AutoEquip>False</AutoEquip>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <TicksPerSecond>15</TicksPerSecond>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <RecentProfiles>
+    <Entry>火源之界單刷副本@@!@@D:\腳本\機而夾蛋3.xml</Entry>
+    <Entry>火源之界單刷副本@@!@@D:\腳本\機而夾蛋.xml</Entry>
+  </RecentProfiles>
+  <OverrideProfileSettings>True</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>False</MailBlue>
+  <MailPurple>False</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <SelectedBotName>Garrisonbuddy</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <UseRandomMount>False</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName>111454</FoodName>
+  <DrinkName>111454</DrinkName>
+  <MountName>訓練過的咆哮者</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>True</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LootRadius>45</LootRadius>
+  <LastUsedPath>E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
+  <MountDistance>60</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</CharacterSettings>

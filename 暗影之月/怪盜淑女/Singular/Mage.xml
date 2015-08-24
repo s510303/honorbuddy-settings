@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MageSettings>
+  <SavedToFile>False</SavedToFile>
+  <SummonTableIfInParty>True</SummonTableIfInParty>
+  <UseTimeWarp>False</UseTimeWarp>
+  <UseSlowFall>True</UseSlowFall>
+  <UsePolymorphOnAdds>True</UsePolymorphOnAdds>
+  <EvocationManaPct>30</EvocationManaPct>
+  <ColdSnapHealthPct>35</ColdSnapHealthPct>
+  <EvanesceHealthPct>65</EvanesceHealthPct>
+  <AlterTimeMobCount>3</AlterTimeMobCount>
+  <AlterTimePlayerCount>3</AlterTimePlayerCount>
+  <AlterTimeHealthPct>40</AlterTimeHealthPct>
+</MageSettings>

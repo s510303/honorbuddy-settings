@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PersistentSettings>
+  <Hotkey_Modifier>0</Hotkey_Modifier>
+  <Hotkey_Movement>0</Hotkey_Movement>
+  <Hotkey_Targeting>0</Hotkey_Targeting>
+  <Hotkey_Facing>0</Hotkey_Facing>
+  <Hotkey_AoE>0</Hotkey_AoE>
+  <Hotkey_Burst>0</Hotkey_Burst>
+  <Hotkey_Cooldowns>0</Hotkey_Cooldowns>
+  <Hotkey_HoGCW>0</Hotkey_HoGCW>
+  <Hotkey_FearTarget_Modifier>0</Hotkey_FearTarget_Modifier>
+  <Hotkey_FearTarget_Key>0</Hotkey_FearTarget_Key>
+  <Hotkey_FearFocus_Modifier>0</Hotkey_FearFocus_Modifier>
+  <Hotkey_FearFocus_Key>0</Hotkey_FearFocus_Key>
+  <Hotkey_FearMouseover_Modifier>0</Hotkey_FearMouseover_Modifier>
+  <Hotkey_FearMouseover_Key>0</Hotkey_FearMouseover_Key>
+  <Hotkey_MortalCoilTarget_Modifier>0</Hotkey_MortalCoilTarget_Modifier>
+  <Hotkey_MortalCoilTarget_Key>0</Hotkey_MortalCoilTarget_Key>
+  <Hotkey_MortalCoilFocus_Modifier>0</Hotkey_MortalCoilFocus_Modifier>
+  <Hotkey_MortalCoilFocus_Key>0</Hotkey_MortalCoilFocus_Key>
+  <Hotkey_MortalCoilMouseover_Modifier>0</Hotkey_MortalCoilMouseover_Modifier>
+  <Hotkey_MortalCoilMouseover_Key>0</Hotkey_MortalCoilMouseover_Key>
+  <Hotkey_ShadowfuryTarget_Modifier>0</Hotkey_ShadowfuryTarget_Modifier>
+  <Hotkey_ShadowfuryTarget_Key>0</Hotkey_ShadowfuryTarget_Key>
+  <Hotkey_ShadowfuryFocus_Modifier>0</Hotkey_ShadowfuryFocus_Modifier>
+  <Hotkey_ShadowfuryFocus_Key>0</Hotkey_ShadowfuryFocus_Key>
+  <Hotkey_ShadowfuryMouseover_Modifier>0</Hotkey_ShadowfuryMouseover_Modifier>
+  <Hotkey_ShadowfuryMouseover_Key>0</Hotkey_ShadowfuryMouseover_Key>
+  <Hotkey_HowlOfTerror_Modifier>0</Hotkey_HowlOfTerror_Modifier>
+  <Hotkey_HowlOfTerror_Key>0</Hotkey_HowlOfTerror_Key>
+  <Hotkey_Soulstone_Modifier>0</Hotkey_Soulstone_Modifier>
+  <Hotkey_Soulstone_Key>0</Hotkey_Soulstone_Key>
+  <Hotkey_Havoc_Modifier>0</Hotkey_Havoc_Modifier>
+  <Hotkey_Havoc_Key>0</Hotkey_Havoc_Key>
+  <Hotkey_RoF_Modifier>0</Hotkey_RoF_Modifier>
+  <Hotkey_RoF_Key>0</Hotkey_RoF_Key>
+  <Hotkey_Cataclysm_Modifier>0</Hotkey_Cataclysm_Modifier>
+  <Hotkey_Cataclysm_Key>0</Hotkey_Cataclysm_Key>
+  <Hotkey_DemonicLeap_Modifier>0</Hotkey_DemonicLeap_Modifier>
+  <Hotkey_DemonicLeap_Key>0</Hotkey_DemonicLeap_Key>
+  <Hotkey_PauseNonMovementKeyPress>False</Hotkey_PauseNonMovementKeyPress>
+  <Hotkey_PauseNonMovementKeyPressDuration>500</Hotkey_PauseNonMovementKeyPressDuration>
+  <EnableOverlay>True</EnableOverlay>
+  <OverlayFontSize>14</OverlayFontSize>
+  <OverlayXPos>0</OverlayXPos>
+  <OverlayYPos>0</OverlayYPos>
+</PersistentSettings>

@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassSettings>
+  <Username>a4d128b3b262f981bf024144c5337f240bb6ab66d5e08434859a3c7da35daba0</Username>
+  <LastProfilePath>E:\Honorbuddy 2.5.14244.797\Settings\GladiatorSuite\Mage\Mage_小葳法師.xml</LastProfilePath>
+  <AutoTarget>False</AutoTarget>
+  <GrpTarget>False</GrpTarget>
+  <LastStatCounted></LastStatCounted>
+  <InterruptMinValue>40</InterruptMinValue>
+  <InterruptMaxValue>80</InterruptMaxValue>
+  <InterruptChannelTime>550</InterruptChannelTime>
+  <InterruptDiminishingReturnEnabled>True</InterruptDiminishingReturnEnabled>
+  <InterruptDiminishingReturnPlayerEnabled>True</InterruptDiminishingReturnPlayerEnabled>
+  <InterruptDiminishingReturnPlayerValue>2</InterruptDiminishingReturnPlayerValue>
+  <InterruptDiminishingReturnAllyHealerEnabled>True</InterruptDiminishingReturnAllyHealerEnabled>
+  <InterruptDiminishingReturnAllyHealerValue>2</InterruptDiminishingReturnAllyHealerValue>
+  <GSL2vs2>0</GSL2vs2>
+  <GSL3vs3>0</GSL3vs3>
+  <GSL5vs5>0</GSL5vs5>
+  <GSLRBG>0</GSLRBG>
+  <GSLHide>0</GSLHide>
+  <FrostJawHealerValue>80</FrostJawHealerValue>
+  <GSLUsername></GSLUsername>
+  <InterruptDiminishingReturnAllyPlayerEnabled>True</InterruptDiminishingReturnAllyPlayerEnabled>
+  <InterruptDiminishingReturnAllyPlayerValue>1</InterruptDiminishingReturnAllyPlayerValue>
+  <DiminishingReturnAutoValue>1</DiminishingReturnAutoValue>
+  <DiminishingReturnManualValue>2</DiminishingReturnManualValue>
+  <AutoBurstTargetValue>40</AutoBurstTargetValue>
+  <SpellStealTargetValue>60</SpellStealTargetValue>
+  <SpellStealSurviveValue>80</SpellStealSurviveValue>
+  <SpellStealAllValue>65</SpellStealAllValue>
+  <AutoSheepHealer>True</AutoSheepHealer>
+  <FrostJawHealer>False</FrostJawHealer>
+  <RingOfFrostEnemiesCountPetFreeze>True</RingOfFrostEnemiesCountPetFreeze>
+  <PetFollow>True</PetFollow>
+  <PetFollowAttacked>True</PetFollowAttacked>
+  <CCManualDPSFocus>True</CCManualDPSFocus>
+  <CCManualDPSLastUnit>True</CCManualDPSLastUnit>
+  <CCManualDPSBurstingEnemies>True</CCManualDPSBurstingEnemies>
+  <CCManualDPSAttackingMe>True</CCManualDPSAttackingMe>
+  <CCManualDPSAttackingHealer>True</CCManualDPSAttackingHealer>
+  <CCManualDPSNotMyTarget>True</CCManualDPSNotMyTarget>
+  <CCManualDPSExceptBurst>True</CCManualDPSExceptBurst>
+  <CCManualDPSAnyUnit>True</CCManualDPSAnyUnit>
+  <CCManualHealerFocus>True</CCManualHealerFocus>
+  <CCManualHealerLastUnit>True</CCManualHealerLastUnit>
+  <CCManualHealerNotMyTarget>True</CCManualHealerNotMyTarget>
+  <CCManualHealerAnyUnit>True</CCManualHealerAnyUnit>
+  <CCManualDPSPlayer>True</CCManualDPSPlayer>
+  <CCAutoDPSPlayer>True</CCAutoDPSPlayer>
+  <CCAutoDPSFocus>True</CCAutoDPSFocus>
+  <CCAutoDPSLastUnit>True</CCAutoDPSLastUnit>
+  <CCAutoDPSBurstingEnemies>True</CCAutoDPSBurstingEnemies>
+  <CCAutoDPSAttackingMe>True</CCAutoDPSAttackingMe>
+  <CCAutoDPSAttackingHealer>True</CCAutoDPSAttackingHealer>
+  <CCAutoDPSNotMyTarget>True</CCAutoDPSNotMyTarget>
+  <CCAutoDPSExceptBurst>True</CCAutoDPSExceptBurst>
+  <CCAutoDPSAnyUnit>True</CCAutoDPSAnyUnit>
+  <CCAutoHealerFocus>True</CCAutoHealerFocus>
+  <CCAutoHealerLastUnit>True</CCAutoHealerLastUnit>
+  <CCAutoHealerNotMyTarget>True</CCAutoHealerNotMyTarget>
+  <CCAutoHealerAnyUnit>True</CCAutoHealerAnyUnit>
+  <FrostNovaHealer>True</FrostNovaHealer>
+  <FrostNovaBurst>True</FrostNovaBurst>
+  <FrostNovaAttacker>True</FrostNovaAttacker>
+  <SpellStealTarget>True</SpellStealTarget>
+  <SpellStealAnyUnit>True</SpellStealAnyUnit>
+  <DeepHealerBeforeSheepRoF>True</DeepHealerBeforeSheepRoF>
+  <SpellStealToSurvive>True</SpellStealToSurvive>
+  <ConeOfColdDragonsBreathHealer>True</ConeOfColdDragonsBreathHealer>
+  <ConeOfColdDragonsBreathEnemyBurst>True</ConeOfColdDragonsBreathEnemyBurst>
+  <BurstOnTrinketProc>True</BurstOnTrinketProc>
+  <StacksHP>True</StacksHP>
+  <Stacks>True</Stacks>
+  <NIceLanceCBarrage>True</NIceLanceCBarrage>
+  <CometStormOnDeep>True</CometStormOnDeep>
+  <Tier7_3>True</Tier7_3>
+  <CombustionOnBurst>True</CombustionOnBurst>
+  <ConeOfColdDragonsBreath>True</ConeOfColdDragonsBreath>
+  <PetFreezeEnemyBurst>True</PetFreezeEnemyBurst>
+  <PetFreezePriest>True</PetFreezePriest>
+  <IcyFloesAuto>True</IcyFloesAuto>
+  <IcyFloesHotkey>True</IcyFloesHotkey>
+  <PetFollowValue>30</PetFollowValue>
+  <CombustionIgniteValue>1000</CombustionIgniteValue>
+  <Tier7_3Value>50</Tier7_3Value>
+  <NIceLanceCBarrageValue>100</NIceLanceCBarrageValue>
+  <StacksValue>50</StacksValue>
+  <PetFollowAttackedValue>80</PetFollowAttackedValue>
+  <PetFollowAttackedCount>2</PetFollowAttackedCount>
+  <Autoburst>False</Autoburst>
+  <AutoburstAllyBurst>False</AutoburstAllyBurst>
+  <AutoSheepDps>False</AutoSheepDps>
+  <AutoDefAlterTime>True</AutoDefAlterTime>
+  <SuperNovaIcyNovaBlastWaveBurst>False</SuperNovaIcyNovaBlastWaveBurst>
+  <SuperNovaIcyNovaBlastWaveBurstValue>30</SuperNovaIcyNovaBlastWaveBurstValue>
+  <AutoBlink>True</AutoBlink>
+  <PickupAllianceFlag>True</PickupAllianceFlag>
+  <AutoBlazingSpeed>False</AutoBlazingSpeed>
+  <PickupHordeFlag>True</PickupHordeFlag>
+  <PickupNetherstormFlag>True</PickupNetherstormFlag>
+  <PickupMineCarts>True</PickupMineCarts>
+  <PickupOrbs>True</PickupOrbs>
+  <Trinket1>None</Trinket1>
+  <Trinket2>None</Trinket2>
+  <CustomSpellIdsTrinketProcString>// Surge of Dominance
+182057
+182067</CustomSpellIdsTrinketProcString>
+  <CustomSpellIdsInterruptHighestPriorityEnabled>False</CustomSpellIdsInterruptHighestPriorityEnabled>
+  <CustomSpellIdsInterruptHighestPriorityString>157695	// Demonbolt</CustomSpellIdsInterruptHighestPriorityString>
+  <CustomSpellIdsInterruptHealEnabled>False</CustomSpellIdsInterruptHealEnabled>
+  <CustomSpellIdsInterruptHealString>5185	// Healing Touch
+8936	// Regrowth
+50464	// Nourish
+19750	// Flash of Light
+82326	// Divine Light
+2061	// Flash Heal
+331	// Healing Wave
+64901	// Hymn of Hope
+12051	// Evocation
+8004	// healing Surge
+47757	// actual penance
+64843	// Divine Hymn
+115175	// Soothing Mist
+77472	// Greater healing Wave
+1064	// Chain Heal
+77472	// Greater Healing Wave
+8004	// Healing Surge
+73920	// Healing Rain
+8936	// Regrowth
+2061	// Flash Heal
+47540	// Penance
+32546	// binding Heal
+2060	// Greater Heal
+32375	// Mass Dispel
+2006	// Resurrection
+5185	// Healing Touch
+596	// Prayer of Healing
+19750	// Flash of Light
+635	// Holy Light
+7328	// Redemption
+2008	// Ancestral Spirit
+50769	// Revive
+82327	// Holy Radiance
+82326	// Divine Light
+740	// Tranquillity
+116694	// Surging Mist
+124682	// Enveloping Mist
+64901	// Hymn of Hope
+64843	// Divine Hymn
+115151	// Renewing Mist
+115310	// Revival
+982	// Revive Pet
+152118	// Clarity of Will
+85673	// Word of Glory
+152116	// Saving Grace</CustomSpellIdsInterruptHealString>
+  <CustomSpellIdsInterruptDmgEnabled>False</CustomSpellIdsInterruptDmgEnabled>
+  <CustomSpellIdsInterruptDmgString>116	// Frostbolt
+2948	// Scorch
+51505	// Lava Burst
+403	// Lightnin Bolt
+1120	// Drain Soul
+48181	// Haunt
+30108	// UA
+30451	// Arcane Blast
+116858	// Chaos Bolt
+113092	// Frost Bomb
+8092	// Mind Blast
+11366	// Pyroblast
+126201	// Frost Bolt
+15407	// Mind Flay
+44614	// Frostfire Bolt
+133	// Fireball
+103103	// Malefic Grasp
+117014	// Elemental Blast
+8092	// Mind Blast
+34914	// Vampiric Touch
+118297	// Immolate
+124465	// Vampiric Touch</CustomSpellIdsInterruptDmgString>
+  <CustomSpellIdsInterruptCcEnabled>False</CustomSpellIdsInterruptCcEnabled>
+  <CustomSpellIdsInterruptCcString>2637	// Hibernate
+9484	// Shackle Undead
+5782	// Fear
+33786	// Cyclone
+28272	// Pig Poly
+118	// Sheep Poly
+61305	// Cat Poly
+113506	// Symbiose Cyclone
+605	// Dominate Mind
+82691	// Ring of Frost
+145067	// Turn Evil ?!
+115750	// Blinding Light
+61721	// Rabbit Poly
+61780	// Turkey Poly
+28271	// Turtle Poly
+51514	// Hex
+339	// Entangling Roots
+605	// Dominate Mind
+20066	// Repentance
+102051	// Frost Jaw
+10326	// Turn Evil
+82012	// Repentance
+1513	// Scare Beast</CustomSpellIdsInterruptCcString>
+  <CustomSpellIdsSpellstealTargetHPEnabled>False</CustomSpellIdsSpellstealTargetHPEnabled>
+  <CustomSpellIdsSpellstealTargetHPString>29166
+132158
+53271
+118858
+12472
+12043
+11426
+44549
+54428
+1022
+6940
+1044
+6940
+114163
+774
+108978
+10060
+6346
+16166
+16188
+117014
+79206
+48108
+124682
+1022
+6940
+1044
+974
+17</CustomSpellIdsSpellstealTargetHPString>
+  <CustomSpellIdsSpellstealAnyHPEnabled>False</CustomSpellIdsSpellstealAnyHPEnabled>
+  <CustomSpellIdsSpellstealAnyHPString>774
+124682
+114157
+1022
+6940
+1044
+974
+17
+33076
+33763</CustomSpellIdsSpellstealAnyHPString>
+  <CustomSpellIdsSpellstealAnyLPEnabled>False</CustomSpellIdsSpellstealAnyLPEnabled>
+  <CustomSpellIdsSpellstealAnyLPString> 29166
+132158
+53271
+12472
+12043
+44549
+54428
+6940
+114163
+774
+10060
+6346
+16166
+16188
+117014
+79206
+48108
+124682
+1022
+6940
+1044
+974
+108978</CustomSpellIdsSpellstealAnyLPString>
+  <AutoIceBlock>False</AutoIceBlock>
+  <AutoColdSnap>True</AutoColdSnap>
+  <AutoIceBlockValue>30</AutoIceBlockValue>
+  <RingOfFrostEnemiesCount>False</RingOfFrostEnemiesCount>
+  <RingOfFrostOnAllyAttackersValue>30</RingOfFrostOnAllyAttackersValue>
+  <MirrorImage>False</MirrorImage>
+  <MirrorImageValue>30</MirrorImageValue>
+  <DeepFreezeHealerOnBurst>True</DeepFreezeHealerOnBurst>
+  <AutoDeepFreezeHealer>False</AutoDeepFreezeHealer>
+  <AutoDeepFreezeTarget>False</AutoDeepFreezeTarget>
+  <AutoDeepFreezeEnemyCds>False</AutoDeepFreezeEnemyCds>
+  <AutoDeepFreezeHealerValue>15</AutoDeepFreezeHealerValue>
+  <AutoDeepFreezeTargetValue>15</AutoDeepFreezeTargetValue>
+  <AttackEveryone>False</AttackEveryone>
+  <MovementEnabled>False</MovementEnabled>
+  <FacingEnabled>False</FacingEnabled>
+  <TargetingEnabled>False</TargetingEnabled>
+  <LatencyValue>100</LatencyValue>
+  <PauseListTime>500</PauseListTime>
+  <HotkeyActiveValue>1000</HotkeyActiveValue>
+  <HotkeysAlwaysActive>False</HotkeysAlwaysActive>
+  <ResetTogglesOnBgArena>False</ResetTogglesOnBgArena>
+  <PauseAfterLoadingScreen>3000</PauseAfterLoadingScreen>
+  <LoadingScreenLastPulse>2000</LoadingScreenLastPulse>
+  <DefensiveAlterTimeEnemyBurst>False</DefensiveAlterTimeEnemyBurst>
+  <DefensiveAlterTimeValue>30</DefensiveAlterTimeValue>
+  <AutoHealthstone>False</AutoHealthstone>
+  <HealthstoneValue>30</HealthstoneValue>
+  <FakeCastAny>False</FakeCastAny>
+  <FakeCastCC>False</FakeCastCC>
+  <InterruptHealTargetHp>True</InterruptHealTargetHp>
+  <InterruptHighPrioCasts>True</InterruptHighPrioCasts>
+  <InterruptHealTargetHpValue>80</InterruptHealTargetHpValue>
+  <InterruptDmgAllyHp>True</InterruptDmgAllyHp>
+  <InterruptDmgAllyHpValue>70</InterruptDmgAllyHpValue>
+  <InterruptCcAllyHp>True</InterruptCcAllyHp>
+  <InterruptCcAllyHpValue>85</InterruptCcAllyHpValue>
+  <InterruptCcHealerNotCced>True</InterruptCcHealerNotCced>
+  <NotifyIconCc>True</NotifyIconCc>
+  <NotifyIconToggles>True</NotifyIconToggles>
+  <NotifyIconEvents>True</NotifyIconEvents>
+  <NotifyRaidWarningCc>False</NotifyRaidWarningCc>
+  <NotifyRaidWarningToggles>False</NotifyRaidWarningToggles>
+  <NotifyRaidWarningEvents>False</NotifyRaidWarningEvents>
+  <NotifyChatMsgCc>False</NotifyChatMsgCc>
+  <NotifyChatMsgToggles>False</NotifyChatMsgToggles>
+  <NotifyChatMsgEvents>False</NotifyChatMsgEvents>
+  <NotifyAudioCc>False</NotifyAudioCc>
+  <NotifyAudioToggles>False</NotifyAudioToggles>
+  <NotifyAudioEvents>False</NotifyAudioEvents>
+  <NotifyAudioVolume>50</NotifyAudioVolume>
+  <NotifyOverlayCc>True</NotifyOverlayCc>
+  <NotifyOverlayToggles>True</NotifyOverlayToggles>
+  <NotifyOverlayEvents>True</NotifyOverlayEvents>
+  <NotifyOverlayLocked>True</NotifyOverlayLocked>
+  <NotifyOverlayPosX>780</NotifyOverlayPosX>
+  <NotifyOverlayPosY>299</NotifyOverlayPosY>
+  <DeepFreezeDPSWoMouseover>True</DeepFreezeDPSWoMouseover>
+  <DeepFreezeDPSWoFocus>True</DeepFreezeDPSWoFocus>
+  <DeepFreezeDPSWoPlayer>True</DeepFreezeDPSWoPlayer>
+  <DeepFreezeDPSWoEnemy>False</DeepFreezeDPSWoEnemy>
+  <DeepFreezeDPSWoTarget>True</DeepFreezeDPSWoTarget>
+  <DeepFreezeDPSWFocus>True</DeepFreezeDPSWFocus>
+  <DeepFreezeDPSWPlayer>True</DeepFreezeDPSWPlayer>
+  <DeepFreezeDPSWEnemy>False</DeepFreezeDPSWEnemy>
+  <DeepFreezeDPSWTarget>True</DeepFreezeDPSWTarget>
+  <DeepFreezeHealerWoMouseover>True</DeepFreezeHealerWoMouseover>
+  <DeepFreezeHealerWoFocus>True</DeepFreezeHealerWoFocus>
+  <DeepFreezeHealerWoPlayer>True</DeepFreezeHealerWoPlayer>
+  <DeepFreezeHealerWoEnemy>False</DeepFreezeHealerWoEnemy>
+  <DeepFreezeHealerWoTarget>True</DeepFreezeHealerWoTarget>
+  <DeepFreezeHealerWFocus>True</DeepFreezeHealerWFocus>
+  <DeepFreezeHealerWPlayer>True</DeepFreezeHealerWPlayer>
+  <DeepFreezeHealerWEnemy>False</DeepFreezeHealerWEnemy>
+  <DeepFreezeHealerWTarget>True</DeepFreezeHealerWTarget>
+  <PolymorphDPSWoMouseover>True</PolymorphDPSWoMouseover>
+  <PolymorphDPSWoFocus>True</PolymorphDPSWoFocus>
+  <PolymorphDPSWoPlayer>True</PolymorphDPSWoPlayer>
+  <PolymorphDPSWoEnemy>False</PolymorphDPSWoEnemy>
+  <PolymorphDPSWoTarget>True</PolymorphDPSWoTarget>
+  <PolymorphDPSWFocus>True</PolymorphDPSWFocus>
+  <PolymorphDPSWPlayer>True</PolymorphDPSWPlayer>
+  <PolymorphDPSWEnemy>False</PolymorphDPSWEnemy>
+  <PolymorphDPSWTarget>True</PolymorphDPSWTarget>
+  <PolymorphHealerWoMouseover>True</PolymorphHealerWoMouseover>
+  <PolymorphHealerWoFocus>True</PolymorphHealerWoFocus>
+  <PolymorphHealerWoPlayer>True</PolymorphHealerWoPlayer>
+  <PolymorphHealerWoEnemy>False</PolymorphHealerWoEnemy>
+  <PolymorphHealerWoTarget>True</PolymorphHealerWoTarget>
+  <PolymorphHealerWFocus>True</PolymorphHealerWFocus>
+  <PolymorphHealerWPlayer>True</PolymorphHealerWPlayer>
+  <PolymorphHealerWEnemy>False</PolymorphHealerWEnemy>
+  <PolymorphHealerWTarget>True</PolymorphHealerWTarget>
+</ClassSettings>

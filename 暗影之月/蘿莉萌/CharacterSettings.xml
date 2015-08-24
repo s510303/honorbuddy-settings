@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+  <TicksPerSecond>15</TicksPerSecond>
+  <AutoEquip>True</AutoEquip>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <SelectTalents>True</SelectTalents>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <HarvestMinerals>True</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <LootRadius>45</LootRadius>
+  <DrinkAmount>0</DrinkAmount>
+  <FoodAmount>0</FoodAmount>
+  <MailRecipient></MailRecipient>
+  <FoodName>111434</FoodName>
+  <DrinkName>111434</DrinkName>
+  <MountName>阿曼尼戰熊</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <UseRandomMount>False</UseRandomMount>
+  <MountDistance>60</MountDistance>
+  <OverrideProfileSettings>True</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>False</MailBlue>
+  <MailPurple>False</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <ClassProfileName>Warrior - Fury</ClassProfileName>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <EnabledPlugins>
+    <Entry>Anti Drown</Entry>
+    <Entry>Questhelper - ItemForAura</Entry>
+    <Entry>Refreshment Detection</Entry>
+    <Entry>▽惆劑脣璃▼逄秞惆劑脣璃</Entry>
+  </EnabledPlugins>
+  <RecentProfiles>
+    <Entry>Mjj23's Molten Core Weekly Farm@@!@@D:\腳本\[任務模式]刷風劍澄垂.xml</Entry>
+    <Entry>[A - Quest] 96-98 Arak [Kick] ($Rev: 3660$)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 回收廠任務.xml</Entry>
+    <Entry>[A - Quest] 96-98 Arak [Kick] ($Rev: 3660$)@@!@@store:///1-100 Questing Profile Pack/WoD/[A - Quest] 96-98 Arak [Kick].xml</Entry>
+    <Entry>[H - Quest] 96-98 Arak [Kick] ($Rev: 3710 $)@@!@@store:///1-100 Questing Profile Pack/WoD/[H - Quest] 96-98 Arak [Kick].xml</Entry>
+    <Entry>[A - Quest] 98-100 Nagrand [Kick] ($Rev: 3962 $)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 98-100 Nagrand [Kick].xml</Entry>
+  </RecentProfiles>
+  <SelectedBotName>Garrisonbuddy</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <LootChests>True</LootChests>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LastUsedPath>E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
+</CharacterSettings>

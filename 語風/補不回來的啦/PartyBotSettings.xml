@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PartyBotSettings>
+  <AutoAcceptSharedQuests>False</AutoAcceptSharedQuests>
+  <AcceptBattlefieldPorts>False</AcceptBattlefieldPorts>
+  <AcceptDungeonInvites>False</AcceptDungeonInvites>
+  <LootInDungeons>False</LootInDungeons>
+  <LeaderName></LeaderName>
+  <FollowDistance>15</FollowDistance>
+</PartyBotSettings>

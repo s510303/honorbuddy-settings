@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RogueSettings>
+  <UseSprint>False</UseSprint>
+  <RecuperateHealth>70</RecuperateHealth>
+  <LethalPoison>Auto</LethalPoison>
+  <NonLethalPoison>Auto</NonLethalPoison>
+  <Stealth>Auto</Stealth>
+  <StealthIfEating>True</StealthIfEating>
+  <FanOfKnivesCount>4</FanOfKnivesCount>
+  <AoeSpellPriorityCount>4</AoeSpellPriorityCount>
+  <InterruptSpells>True</InterruptSpells>
+  <UseTricksOfTheTrade>True</UseTricksOfTheTrade>
+  <UsePickLock>True</UsePickLock>
+  <SapAddDistance>25</SapAddDistance>
+  <SapMovingTargetsOnPull>True</SapMovingTargetsOnPull>
+  <CombatUseRuptureFinisher>True</CombatUseRuptureFinisher>
+  <MoveBehindTargets>False</MoveBehindTargets>
+  <UseExposeArmor>True</UseExposeArmor>
+  <UseSpeedBuff>True</UseSpeedBuff>
+  <PickPocketOnlyPull>False</PickPocketOnlyPull>
+  <PickPocketOnlySap>True</PickPocketOnlySap>
+  <UsePickPocket>False</UsePickPocket>
+  <SuccessfulPostPickPocketBlacklistMinutes>3</SuccessfulPostPickPocketBlacklistMinutes>
+  <PostPickPocketPause>200</PostPickPocketPause>
+  <PrePickPocketPause>100</PrePickPocketPause>
+  <AllowPickPocketInCombat>False</AllowPickPocketInCombat>
+  <UseDimantle>False</UseDimantle>
+</RogueSettings>

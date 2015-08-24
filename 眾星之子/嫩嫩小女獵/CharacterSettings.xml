@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+  <TicksPerSecond>15</TicksPerSecond>
+  <AutoEquip>True</AutoEquip>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <SelectTalents>True</SelectTalents>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <HarvestMinerals>True</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <LootRadius>45</LootRadius>
+  <DrinkAmount>0</DrinkAmount>
+  <FoodAmount>5</FoodAmount>
+  <MailRecipient></MailRecipient>
+  <FoodName>27854</FoodName>
+  <DrinkName>27860</DrinkName>
+  <MountName>阿曼尼戰熊</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <UseRandomMount>False</UseRandomMount>
+  <MountDistance>60</MountDistance>
+  <OverrideProfileSettings>False</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>True</SellWhite>
+  <SellGreen>True</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <ClassProfileName>Hunter - Beast Mastery</ClassProfileName>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <EnabledPlugins>
+    <Entry>Anti Drown</Entry>
+    <Entry>CombatDismount</Entry>
+    <Entry>HBRelogHelper</Entry>
+    <Entry>Questhelper - ItemForAura</Entry>
+    <Entry>Refreshment Detection</Entry>
+    <Entry>▽惆劑脣璃▼逄秞惆劑脣璃</Entry>
+  </EnabledPlugins>
+  <RecentProfiles>
+    <Entry>[N-Quest]Blade's Edge Mountains(67-68)[Cava] $Rev: 405 $@@!@@D:\腳本\CAVA3\Scripts\[N-Quest](67-68)Blade'sEdgeMountains[Cava].xml</Entry>
+    <Entry>[N-Quest] (65-67) Nagrand [Cava] $Rev: 404 $@@!@@D:\腳本\CAVA3\Scripts\[N-Quest](65-67)Nagrand[Cava].xml</Entry>
+    <Entry>[N-Quest] (62-64) Zangarmarsh [Cava] $Rev: 404 $@@!@@D:\腳本\CAVA3\Scripts\[N-Quest](62-64)Zangarmarsh[Cava].xml</Entry>
+    <Entry>Move to Main City[Cava] $Rev: 375 $@@!@@D:\腳本\CAVA3\Scripts\MovetoMainCity[Cava].xml</Entry>
+    <Entry>[Fly][A - Quest] BC 58-70 [Kick]($Rev: 3926 $)@@!@@store:///1-100 Questing Profile Pack/BC/[Fly][A - Quest] BC 58-70 [Kick].xml</Entry>
+  </RecentProfiles>
+  <SelectedBotName>任务模式</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>False</FindMountAutomatically>
+  <LootChests>True</LootChests>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LastUsedPath>D:\腳本\CAVA3\Scripts\[N-Quest](65-67)Nagrand[Cava].xml</LastUsedPath>
+</CharacterSettings>

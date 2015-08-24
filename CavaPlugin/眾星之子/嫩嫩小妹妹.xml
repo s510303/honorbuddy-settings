@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CPsettings>
+  <LastUsedPath>0</LastUsedPath>
+  <AntiStuckSystem>False</AntiStuckSystem>
+  <CheckAllowSummonPet>False</CheckAllowSummonPet>
+  <GuildInvitescheck>False</GuildInvitescheck>
+  <RefuseguildInvitescheck>False</RefuseguildInvitescheck>
+  <RefusepartyInvitescheck>False</RefusepartyInvitescheck>
+  <RefusetradeInvitescheck>False</RefusetradeInvitescheck>
+  <RefuseduelInvitescheck>False</RefuseduelInvitescheck>
+  <RessAfterDie>False</RessAfterDie>
+  <CombatLoot>False</CombatLoot>
+  <OpenBox>False</OpenBox>
+  <FixMountFlightVendor>False</FixMountFlightVendor>
+  <AntigankcheckBox>False</AntigankcheckBox>
+  <Playsonar>False</Playsonar>
+  <Learnportal1>False</Learnportal1>
+  <Learnportal2>False</Learnportal2>
+  <Learnportal3>False</Learnportal3>
+  <Learnportal4>False</Learnportal4>
+  <Learnportal5>False</Learnportal5>
+  <Learnportal6>False</Learnportal6>
+  <FriendoftheExarchs>null</FriendoftheExarchs>
+  <GorgondOutpost>null</GorgondOutpost>
+  <TaladorOutpost>null</TaladorOutpost>
+  <SpiresofArakOutpost>null</SpiresofArakOutpost>
+  <NagrandOutpost>null</NagrandOutpost>
+</CPsettings>

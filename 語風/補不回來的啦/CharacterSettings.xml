@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <RessAtSpiritHealers>True</RessAtSpiritHealers>
+  <TicksPerSecond>15</TicksPerSecond>
+  <AutoEquip>False</AutoEquip>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <SelectTalents>True</SelectTalents>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>True</HarvestHerbs>
+  <LootRadius>45</LootRadius>
+  <DrinkAmount>0</DrinkAmount>
+  <FoodAmount>0</FoodAmount>
+  <MailRecipient></MailRecipient>
+  <FoodName>111444</FoodName>
+  <DrinkName>111444</DrinkName>
+  <MountName>阿曼尼戰熊</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <UseRandomMount>False</UseRandomMount>
+  <MountDistance>60</MountDistance>
+  <OverrideProfileSettings>True</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>False</MailBlue>
+  <MailPurple>False</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <ClassProfileName>Priest - Holy</ClassProfileName>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <SelectedBotName>LazyRaider</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <LootChests>True</LootChests>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LastUsedPath>E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
+</CharacterSettings>

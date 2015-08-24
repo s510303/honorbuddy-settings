@@ -1,0 +1,1930 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlightNodes>
+  <Node name="聖光之願禮拜堂，東瘟疫之地" continent="0" master="12617" x="2271.09" y="-5340.8" z="87.11">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="暴風城，艾爾文森林" continent="0" master="352" x="-8841.06" y="489.656" z="109.607">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="哨兵嶺，西部荒野" continent="0" x="-10551.9" y="1034.39" z="56.9543">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="湖畔鎮，赤脊山" continent="0" x="-9429.1" y="-2231.4" z="68.65">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="鐵爐堡，丹莫洛" continent="0" master="1573" x="-4821.78" y="-1155.44" z="502.21">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="米奈希爾港，濕地" continent="0" x="-3787.81" y="-777.696" z="1.5582">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="塞爾薩瑪，洛克莫丹" continent="0" master="1572" x="-5421.91" y="-2930.01" z="347.25">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="夜色鎮，暮色森林" continent="0" master="2409" x="-10515.5" y="-1261.65" z="41.34">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+    </Connections>
+  </Node>
+  <Node name="避難谷地，阿拉希高地" continent="0" x="-1240.53" y="-2515.11" z="22.16">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="藏寶海灣，荊棘谷" continent="0" x="-14473" y="464.15" z="36.43">
+    <Connections />
+  </Node>
+  <Node name="鷹巢山，辛特蘭" continent="0" x="283.74" y="-2002.76" z="194.74">
+    <Connections />
+  </Node>
+  <Node name="冰風營地，西瘟疫之地" continent="0" x="931.32" y="-1430.11" z="64.67">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="摩根的崗哨，燃燒平原" continent="0" master="2299" x="-8364.61" y="-2738.35" z="185.46">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="瑟銀哨塔，灼熱峽谷" continent="0" master="2941" x="-6552.59" y="-1168.27" z="309.31">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="病木林哨塔，東瘟疫之地" continent="0" master="44233" x="2965.55" y="-3033.61" z="126.929">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="北地哨塔，東瘟疫之地" continent="0" master="28621" x="3134.26" y="-4354.78" z="133.463">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="東牆之塔，東瘟疫之地" continent="0" master="44230" x="2524.44" y="-4769.56" z="104.087">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="皇冠哨塔，東瘟疫之地" continent="0" x="1876.4" y="-3693.32" z="157.687">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="反抗軍營地，荊棘谷" continent="0" x="-11344" y="-216.83" z="75.22">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="祖阿曼，鬼魂之地" continent="530" x="6789.79" y="-7747.58" z="126.51">
+    <Connections />
+  </Node>
+  <Node name="索多里爾河，東瘟疫之地" continent="0" x="1935.97" y="-2694.48" z="61.9471">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="走私者之痕，瓦許伊爾" continent="0" x="-4588.05" y="3481.12" z="-102.718">
+    <Connections />
+  </Node>
+  <Node name="銀浪谷地，瓦許伊爾" continent="0" x="-6105.61" y="4285.08" z="-350.5">
+    <Connections />
+  </Node>
+  <Node name="寧靜港灣，瓦許伊爾" continent="0" x="-6616.4" y="4308.28" z="-564.077">
+    <Connections />
+  </Node>
+  <Node name="黑裂灣，瓦許伊爾" continent="0" x="-6902.25" y="5943.82" z="-766.516">
+    <Connections />
+  </Node>
+  <Node name="維爾加的避難所，濕地" continent="0" x="-3222.93" y="-1989.49" z="50.5475">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="綠意守望者之林，濕地" continent="0" x="-3306.65" y="-2718.69" z="20.4836">
+    <Connections />
+  </Node>
+  <Node name="丹莫德，濕地" continent="0" x="-2656.54" y="-2464.28" z="80.3378">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="斯拉奇索勘察地，濕地" continent="0" master="41321" x="-4113.6" y="-2741.21" z="18.9911">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="遠行者小屋，洛克莫丹" continent="0" x="-5668.31" y="-4253.44" z="407.015">
+    <Connections />
+  </Node>
+  <Node name="閃金鎮，艾爾文森林" continent="0" x="-9433.99" y="85.1493" z="56.734">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="月溪鎮，西部荒野" continent="0" x="-10876.9" y="1542.88" z="54.5289">
+    <Connections />
+  </Node>
+  <Node name="法布隆南瓜農場，西部荒野" continent="0" x="-9838.51" y="1273.93" z="40.7067">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="東谷伐木場，艾爾文森林" continent="0" x="-9475.71" y="-1306.74" z="44.1496">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="李文斯頓堡壘，荊棘谷" continent="0" x="-12828.8" y="-413.71" z="12.9666">
+    <Connections />
+  </Node>
+  <Node name="探險者協會挖掘場，荊棘谷" continent="0" x="-13600.9" y="-85.5486" z="37.8078">
+    <Connections />
+  </Node>
+  <Node name="岩風峽谷，赤脊山" continent="0" x="-9641.67" y="-3479.37" z="121.956">
+    <Connections />
+  </Node>
+  <Node name="沼潮哨站，悲傷沼澤" continent="0" x="-10176.6" y="-3836.54" z="17.986">
+    <Connections />
+  </Node>
+  <Node name="沼槳，悲傷沼澤" continent="0" master="43086" x="-9737.08" y="-3890.72" z="22.73">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+    </Connections>
+  </Node>
+  <Node name="避難營，悲傷沼澤" continent="0" x="-10118.6" y="-2852.48" z="23.4641">
+    <Connections />
+  </Node>
+  <Node name="佛德林堡號，瓦許伊爾" continent="0" x="-7209.71" y="3925.85" z="14.7466">
+    <Connections />
+  </Node>
+  <Node name="沙灘，瓦許伊爾" continent="0" x="-5310.85" y="3914.42" z="3.22433">
+    <Connections />
+  </Node>
+  <Node name="止水營地，赤脊山" continent="0" x="-9446.64" y="-2836.99" z="64.5761">
+    <Connections />
+  </Node>
+  <Node name="風暴之羽崗哨，辛特蘭" continent="0" x="312.326" y="-4105.36" z="118.289">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="卡拉諾斯，丹莫洛" continent="0" x="-5660.8" y="-494.851" z="397.008">
+    <Connections />
+  </Node>
+  <Node name="古博拉採掘場，丹莫洛" continent="0" x="-5714.14" y="-1578.64" z="383.204">
+    <Connections />
+  </Node>
+  <Node name="烏鴉嶺，暮色森林" continent="0" x="-10737.6" y="267.043" z="42.3478">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="光盾哨塔，東瘟疫之地" continent="0" x="2262.1" y="-4411.52" z="111.652">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="塵風挖掘場，荒蕪之地" continent="0" x="-6594.09" y="-3401.18" z="279.209">
+    <Connections />
+  </Node>
+  <Node name="龍之口，荒蕪之地" continent="0" x="-7034.53" y="-2570.79" z="252.153">
+    <Connections />
+  </Node>
+  <Node name="熔絲火光山間營地，荒蕪之地" continent="0" master="44407" x="-6574.94" y="-3875.13" z="390.94">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="安多哈爾，西瘟疫之地" continent="0" x="1374.23" y="-1281.94" z="59.174">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="治癒者崗哨，西瘟疫之地" continent="0" x="1864.32" y="-1755.82" z="59.662">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="高岸堡，暮光高地" continent="0" x="-4863.1" y="-6740.61" z="9.41677">
+    <Connections />
+  </Node>
+  <Node name="勝利者崗哨，暮光高地" continent="0" x="-4170.55" y="-4748.93" z="126.787">
+    <Connections />
+  </Node>
+  <Node name="火鬍巡防地，暮光高地" continent="0" x="-4183.9" y="-5620.15" z="25.2103">
+    <Connections />
+  </Node>
+  <Node name="桑德瑪，暮光高地" continent="0" x="-3146.92" y="-4994.28" z="128.485">
+    <Connections />
+  </Node>
+  <Node name="柯特海文，暮光高地" continent="0" x="-2689.43" y="-5427.53" z="190.207">
+    <Connections />
+  </Node>
+  <Node name="壁爐谷，西瘟疫之地" continent="0" x="2839.78" y="-1500.51" z="146.089">
+    <Connections>
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+      <Connection name="夜色鎮，暮色森林" />
+    </Connections>
+  </Node>
+  <Node name="黑鐵峰，灼熱峽谷" continent="0" master="47927" x="-7123.06" y="-1236.63" z="290.131">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="燎星崗哨，燃燒平原" continent="0" master="48318" x="-8092.26" y="-1025.79" z="132.666">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="鑿柄，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="鑿柄，燃燒平原" continent="0" master="48321" x="-7865.93" y="-1919.53" z="144.722">
+    <Connections>
+      <Connection name="暴風城，艾爾文森林" />
+      <Connection name="哨兵嶺，西部荒野" />
+      <Connection name="湖畔鎮，赤脊山" />
+      <Connection name="鐵爐堡，丹莫洛" />
+      <Connection name="米奈希爾港，濕地" />
+      <Connection name="塞爾薩瑪，洛克莫丹" />
+      <Connection name="夜色鎮，暮色森林" />
+      <Connection name="避難谷地，阿拉希高地" />
+      <Connection name="冰風營地，西瘟疫之地" />
+      <Connection name="聖光之願禮拜堂，東瘟疫之地" />
+      <Connection name="摩根的崗哨，燃燒平原" />
+      <Connection name="瑟銀哨塔，灼熱峽谷" />
+      <Connection name="病木林哨塔，東瘟疫之地" />
+      <Connection name="北地哨塔，東瘟疫之地" />
+      <Connection name="東牆之塔，東瘟疫之地" />
+      <Connection name="皇冠哨塔，東瘟疫之地" />
+      <Connection name="反抗軍營地，荊棘谷" />
+      <Connection name="索多里爾河，東瘟疫之地" />
+      <Connection name="維爾加的避難所，濕地" />
+      <Connection name="丹莫德，濕地" />
+      <Connection name="斯拉奇索勘察地，濕地" />
+      <Connection name="閃金鎮，艾爾文森林" />
+      <Connection name="法布隆南瓜農場，西部荒野" />
+      <Connection name="東谷伐木場，艾爾文森林" />
+      <Connection name="風暴之羽崗哨，辛特蘭" />
+      <Connection name="烏鴉嶺，暮色森林" />
+      <Connection name="光盾哨塔，東瘟疫之地" />
+      <Connection name="熔絲火光山間營地，荒蕪之地" />
+      <Connection name="安多哈爾，西瘟疫之地" />
+      <Connection name="治癒者崗哨，西瘟疫之地" />
+      <Connection name="壁爐谷，西瘟疫之地" />
+      <Connection name="黑鐵峰，灼熱峽谷" />
+      <Connection name="燎星崗哨，燃燒平原" />
+      <Connection name="沼槳，悲傷沼澤" />
+    </Connections>
+  </Node>
+  <Node name="魯瑟蘭村，泰達希爾" continent="1" master="3838" x="8383.75" y="980.964" z="30.8292">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="艾克索達" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="洛丹諾，黑海岸" continent="1" master="3841" x="7459.9" y="-326.56" z="8.09">
+    <Connections>
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="艾克索達" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="阿斯特蘭納，梣谷" continent="1" master="4267" x="2827.34" y="-289.24" z="107.16">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="艾克索達" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="蔭枝林，菲拉斯" continent="1" x="-4996.88" y="73.9427" z="99.8385">
+    <Connections />
+  </Node>
+  <Node name="塞拉摩，塵泥沼澤" continent="1" x="-3825.37" y="-4516.58" z="10.44">
+    <Connections>
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="薩歐達拉瞰臺，石爪山脈" continent="1" x="2147.25" y="1537.87" z="341.24">
+    <Connections />
+  </Node>
+  <Node name="尼耶爾前哨站，淒涼之地" continent="1" x="139.24" y="1325.82" z="193.5">
+    <Connections />
+  </Node>
+  <Node name="加基森，塔納利斯" continent="1" x="-7185.97" y="-3768.24" z="9.30053">
+    <Connections />
+  </Node>
+  <Node name="羽月要塞，菲拉斯" continent="1" x="-4467.04" y="2188.64" z="17.8939">
+    <Connections />
+  </Node>
+  <Node name="月光林地" continent="1" x="7458.45" y="-2487.21" z="462.33">
+    <Connections>
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="永望鎮，冬泉谷" continent="1" master="11138" x="6796.8" y="-4742.39" z="701.5">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="艾克索達" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="刺枝林地，費伍德森林" continent="1" master="12578" x="6214.32" y="-1874.28" z="565.956">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="艾克索達" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="塞納里奧城堡，希利蘇斯" continent="1" x="-6761.83" y="772.03" z="88.91">
+    <Connections />
+  </Node>
+  <Node name="馬紹爾觀測站，安戈洛環形山" continent="1" x="-7548.05" y="-1541.13" z="-271.05">
+    <Connections />
+  </Node>
+  <Node name="棘齒城，北貧瘠之地" continent="1" x="-894.59" y="-3773.01" z="11.48">
+    <Connections />
+  </Node>
+  <Node name="血色守望，血謎島" continent="530" x="-1933.27" y="-11954.6" z="57.19">
+    <Connections />
+  </Node>
+  <Node name="艾克索達" continent="530" x="-3867.56" y="-11641.1" z="-137.664">
+    <Connections>
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="翡翠聖地，費伍德森林" continent="1" master="22931" x="3972.84" y="-1324.51" z="244.803">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="艾克索達" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="林歌神殿，梣谷" continent="1" x="3000.25" y="-3202.41" z="189.77">
+    <Connections />
+  </Node>
+  <Node name="泥鏈營地，塵泥沼澤" continent="1" x="-4566.23" y="-3226.05" z="34.7">
+    <Connections />
+  </Node>
+  <Node name="黑澗營地，梣谷" continent="1" x="3880.51" y="654.16" z="10.46">
+    <Connections />
+  </Node>
+  <Node name="古樹之林，黑海岸" continent="1" master="33253" x="4970.5" y="147.65" z="51.64">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="艾克索達" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="星塵尖塔，梣谷" continent="1" x="1905.11" y="-321.99" z="118.25">
+    <Connections />
+  </Node>
+  <Node name="狂風堡，石爪山脈" continent="1" x="1268.51" y="432.87" z="95.56">
+    <Connections />
+  </Node>
+  <Node name="北方遠征隊營地，石爪山脈" continent="1" x="237.88" y="-281.35" z="92.76">
+    <Connections />
+  </Node>
+  <Node name="遠眺者之谷，石爪山脈" continent="1" x="973.94" y="2013.13" z="126.59">
+    <Connections />
+  </Node>
+  <Node name="薩爾加德營地，淒涼之地" continent="1" x="-1694.53" y="2577.57" z="136.59">
+    <Connections />
+  </Node>
+  <Node name="卡努姆林地，淒涼之地" continent="1" x="-1038.43" y="1637.99" z="60.56">
+    <Connections />
+  </Node>
+  <Node name="桑克的居所，淒涼之地" continent="1" x="-534.04" y="1056.68" z="89.91">
+    <Connections />
+  </Node>
+  <Node name="艾瑟雷索，淒涼之地" continent="1" x="-356.47" y="2478.9" z="75.95">
+    <Connections />
+  </Node>
+  <Node name="苔蘚堆，安戈洛環形山" continent="1" x="-6958.44" y="-1095.24" z="-272.65">
+    <Connections />
+  </Node>
+  <Node name="榮譽看臺，南貧瘠之地" continent="1" x="-335.2" y="-1532.44" z="87.51">
+    <Connections />
+  </Node>
+  <Node name="北方城堡，南貧瘠之地" continent="1" x="-2124.21" y="-3561.79" z="100.89">
+    <Connections />
+  </Node>
+  <Node name="凱旋堡壘，南貧瘠之地" continent="1" x="-3150.25" y="-2286.27" z="93.01">
+    <Connections />
+  </Node>
+  <Node name="多蘭納爾，泰達希爾" continent="1" x="9873.1" y="977.698" z="1309.98">
+    <Connections>
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="達納蘇斯，泰達希爾" continent="1" x="9968.8" y="2622.09" z="1316.08">
+    <Connections>
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="菲茲爾與普茲克的高速駁船，千針石林" continent="1" x="-6075.37" y="-3913.44" z="21.6224">
+    <Connections />
+  </Node>
+  <Node name="古斯坦挖掘場，塔納利斯" continent="1" x="-9493.71" y="-2953.99" z="12.6826">
+    <Connections />
+  </Node>
+  <Node name="私酒商哨站，塔納利斯" continent="1" x="-8683.09" y="-4088.1" z="40.0553">
+    <Connections />
+  </Node>
+  <Node name="暗色崗哨，石爪山脈" continent="1" x="1379.42" y="1034.86" z="165.088">
+    <Connections />
+  </Node>
+  <Node name="艾維娜聖壇，海加爾" continent="1" master="43481" x="4987.87" y="-2676.19" z="1426.36">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="月光林地" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="艾克索達" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="藍色守望，藍謎島" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="艾森娜之林，海加爾" continent="1" master="41860" x="5163.51" y="-1760.58" z="1338.47">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="月光林地" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="艾克索達" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="藍色守望，藍謎島" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="諾達希爾，海加爾" continent="1" master="41861" x="5584.06" y="-3569.84" z="1570.6">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="月光林地" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="艾克索達" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="藍色守望，藍謎島" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="夢旅者之眠，菲拉斯" continent="1" x="-3136.62" y="1951.67" z="41.5988">
+    <Connections />
+  </Node>
+  <Node name="艾斯圖蘭之塔，菲拉斯" continent="1" x="-4863.64" y="1478.16" z="84.8475">
+    <Connections />
+  </Node>
+  <Node name="語風林地，費伍德森林" continent="1" x="6078.51" y="-844.998" z="412.274">
+    <Connections />
+  </Node>
+  <Node name="野性之心營地，費伍德森林" continent="1" x="4734.16" y="-883.806" z="342.934">
+    <Connections />
+  </Node>
+  <Node name="索桑恩之門，海加爾" continent="1" x="4059.4" y="-3966.75" z="970.149">
+    <Connections />
+  </Node>
+  <Node name="藍色守望，藍謎島" continent="530" x="-4130.08" y="-12520.5" z="44.3305">
+    <Connections>
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="蘭姆卡韓，奧丹姆" continent="1" master="48275" x="-9415.02" y="-1042.97" z="113.396">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="月光林地" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="艾克索達" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="藍色守望，藍謎島" />
+      <Connection name="瑪洛尼聖地，海加爾" />
+    </Connections>
+  </Node>
+  <Node name="韋爾薩爾綠洲，奧丹姆" continent="1" x="-8375.47" y="791.259" z="148.422">
+    <Connections />
+  </Node>
+  <Node name="舒諾茲營地，奧丹姆" continent="1" x="-10711.9" y="1059.62" z="24.149">
+    <Connections />
+  </Node>
+  <Node name="瑪洛尼聖地，海加爾" continent="1" master="54392" x="4397.79" y="-2107.53" z="1204.34">
+    <Connections>
+      <Connection name="洛丹諾，黑海岸" />
+      <Connection name="魯瑟蘭村，泰達希爾" />
+      <Connection name="阿斯特蘭納，梣谷" />
+      <Connection name="塞拉摩，塵泥沼澤" />
+      <Connection name="月光林地" />
+      <Connection name="永望鎮，冬泉谷" />
+      <Connection name="刺枝林地，費伍德森林" />
+      <Connection name="艾克索達" />
+      <Connection name="翡翠聖地，費伍德森林" />
+      <Connection name="古樹之林，黑海岸" />
+      <Connection name="多蘭納爾，泰達希爾" />
+      <Connection name="達納蘇斯，泰達希爾" />
+      <Connection name="艾維娜聖壇，海加爾" />
+      <Connection name="艾森娜之林，海加爾" />
+      <Connection name="諾達希爾，海加爾" />
+      <Connection name="藍色守望，藍謎島" />
+      <Connection name="蘭姆卡韓，奧丹姆" />
+    </Connections>
+  </Node>
+  <Node name="地獄火半島，黑暗之門" continent="530" master="18931" x="-327.35" y="1020.49" z="54.25">
+    <Connections>
+      <Connection name="榮譽堡，地獄火半島" />
+      <Connection name="撒塔斯，泰洛卡森林" />
+      <Connection name="破碎崗哨，地獄火半島" />
+      <Connection name="特爾哈曼神廟，地獄火半島" />
+      <Connection name="奧雷伯爾港，贊格沼澤" />
+    </Connections>
+  </Node>
+  <Node name="榮譽堡，地獄火半島" continent="530" master="16822" x="-673.42" y="2717.27" z="94.18">
+    <Connections>
+      <Connection name="地獄火半島，黑暗之門" />
+      <Connection name="撒塔斯，泰洛卡森林" />
+      <Connection name="破碎崗哨，地獄火半島" />
+      <Connection name="特爾哈曼神廟，地獄火半島" />
+      <Connection name="奧雷伯爾港，贊格沼澤" />
+    </Connections>
+  </Node>
+  <Node name="特爾哈曼神廟，地獄火半島" continent="530" master="18785" x="199.16" y="4241.56" z="121.75">
+    <Connections>
+      <Connection name="榮譽堡，地獄火半島" />
+      <Connection name="撒塔斯，泰洛卡森林" />
+      <Connection name="地獄火半島，黑暗之門" />
+      <Connection name="破碎崗哨，地獄火半島" />
+      <Connection name="奧雷伯爾港，贊格沼澤" />
+    </Connections>
+  </Node>
+  <Node name="泰倫多爾，贊格沼澤" continent="530" x="213.75" y="6063.75" z="148.31">
+    <Connections>
+      <Connection name="奧雷伯爾港，贊格沼澤" />
+      <Connection name="撒塔斯，泰洛卡森林" />
+    </Connections>
+  </Node>
+  <Node name="泰拉，納葛蘭" continent="530" x="-2729" y="7305.3" z="88.64">
+    <Connections />
+  </Node>
+  <Node name="艾蘭里堡壘，泰洛卡森林" continent="530" x="-2987.24" y="3872.78" z="9.13">
+    <Connections />
+  </Node>
+  <Node name="52區，虛空風暴" continent="530" x="3082.31" y="3596.11" z="144.02">
+    <Connections />
+  </Node>
+  <Node name="蠻錘要塞，影月谷" continent="530" x="-3982.07" y="2156.47" z="105.15">
+    <Connections />
+  </Node>
+  <Node name="希爾瓦納，劍刃山脈" continent="530" x="2183.65" y="6794.46" z="183.28">
+    <Connections />
+  </Node>
+  <Node name="撒塔斯，泰洛卡森林" continent="530" master="18940" x="-1837.23" y="5301.9" z="-12.43">
+    <Connections>
+      <Connection name="地獄火半島，黑暗之門" />
+      <Connection name="榮譽堡，地獄火半島" />
+      <Connection name="破碎崗哨，地獄火半島" />
+      <Connection name="特爾哈曼神廟，地獄火半島" />
+      <Connection name="奧雷伯爾港，贊格沼澤" />
+      <Connection name="泰倫多爾，贊格沼澤" />
+    </Connections>
+  </Node>
+  <Node name="風暴之尖，虛空風暴" continent="530" x="4157.58" y="2959.69" z="352.08">
+    <Connections />
+  </Node>
+  <Node name="扭曲太空，虛空風暴" continent="530" x="2974.95" y="1848.24" z="141.28">
+    <Connections />
+  </Node>
+  <Node name="托斯利基地，劍刃山脈" continent="530" x="1857.35" y="5531.87" z="277.01">
+    <Connections />
+  </Node>
+  <Node name="永恆樹林，劍刃山脈" continent="530" x="2976.01" y="5501.13" z="143.67">
+    <Connections />
+  </Node>
+  <Node name="奧雷伯爾港，贊格沼澤" continent="530" master="22485" x="966.67" y="7399.16" z="29.14">
+    <Connections>
+      <Connection name="榮譽堡，地獄火半島" />
+      <Connection name="特爾哈曼神廟，地獄火半島" />
+      <Connection name="泰倫多爾，贊格沼澤" />
+      <Connection name="撒塔斯，泰洛卡森林" />
+      <Connection name="地獄火半島，黑暗之門" />
+      <Connection name="破碎崗哨，地獄火半島" />
+    </Connections>
+  </Node>
+  <Node name="破碎崗哨，地獄火半島" continent="530" master="20234" x="276.2" y="1486.91" z="-15.1">
+    <Connections>
+      <Connection name="榮譽堡，地獄火半島" />
+      <Connection name="撒塔斯，泰洛卡森林" />
+      <Connection name="地獄火半島，黑暗之門" />
+      <Connection name="特爾哈曼神廟，地獄火半島" />
+      <Connection name="奧雷伯爾港，贊格沼澤" />
+    </Connections>
+  </Node>
+  <Node name="繁星之眠，龍骨荒野" continent="571" master="26881" x="3504.13" y="1992.03" z="64.96">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="達拉然" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="瓦爾加德港口，凜風峽灣" continent="571" x="567.41" y="-5010.97" z="11.5">
+    <Connections>
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="達拉然" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="威德瓦堡壘, 凜風峽灣" continent="571" x="2468.77" y="-5029.82" z="283.49">
+    <Connections />
+  </Node>
+  <Node name="鎮西要塞，凜風峽灣" continent="571" x="1342.84" y="-3287.9" z="174.45">
+    <Connections />
+  </Node>
+  <Node name="隘境之盾，凜懼島" continent="571" x="3575.44" y="6661.64" z="195.19">
+    <Connections>
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="達拉然" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="溫特加德要塞，龍骨荒野" continent="571" master="26878" x="3712.43" y="-694.86" z="215.57">
+    <Connections>
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="達拉然" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="驍勇要塞，北風凍原" continent="571" x="2269.54" y="5173.69" z="11.1">
+    <Connections>
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="達拉然" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="嘶軸簡易機場，北風凍原" continent="571" x="4127.23" y="5313.07" z="28.67">
+    <Connections>
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="達拉然" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="弗塔根堡，龍骨荒野" continent="571" x="4612.21" y="1406.6" z="195.06">
+    <Connections />
+  </Node>
+  <Node name="龍眠神殿，龍骨荒野" continent="571" x="3653.21" y="247.58" z="52.26">
+    <Connections />
+  </Node>
+  <Node name="琥珀松小屋，灰白之丘" continent="571" master="26880" x="3446.35" y="-2754.1" z="199.4">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="達拉然" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="西荒兵團，灰白之丘" continent="571" master="26876" x="4584.98" y="-4254.69" z="182.21">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="達拉然" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="琥珀岩臺，北風凍原" continent="571" x="3587.84" y="5973.3" z="136.22">
+    <Connections>
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="達拉然" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="默亞基，龍骨荒野" continent="571" x="2792.45" y="908.96" z="22.33">
+    <Connections />
+  </Node>
+  <Node name="卡瑪廓，凜風峽灣" continent="571" x="785.27" y="-2887.71" z="5.89">
+    <Connections />
+  </Node>
+  <Node name="昂紐沛，北風凍原" continent="571" x="2919.19" y="4046.09" z="1.85">
+    <Connections />
+  </Node>
+  <Node name="驍勇臺地營地，冬握湖" continent="571" x="5100.81" y="2185.65" z="365.62">
+    <Connections />
+  </Node>
+  <Node name="銀白看臺，祖爾德拉克" continent="571" master="28623" x="5521.63" y="-2672.25" z="303.95">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="達拉然" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="黯黑守望，祖爾德拉克" continent="571" master="28615" x="5218.9" y="-1302.22" z="242.16">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="達拉然" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="聖光止境，祖爾德拉克" continent="571" master="28618" x="5190.11" y="-2206.46" z="239.4">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="達拉然" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="辛托加，祖爾德拉克" continent="571" x="5777.4" y="-3594.94" z="386.69">
+    <Connections />
+  </Node>
+  <Node name="大河之心，休拉薩盆地" continent="571" master="28574" x="5506.23" y="4748.1" z="-194.43">
+    <Connections>
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="達拉然" />
+    </Connections>
+  </Node>
+  <Node name="達拉然" continent="571" master="28674" x="5813.89" y="449.13" z="658.75">
+    <Connections>
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+    </Connections>
+  </Node>
+  <Node name="K3，風暴群山" continent="571" x="6186.75" y="-1052.91" z="410.2">
+    <Connections />
+  </Node>
+  <Node name="霜堡，風暴群山" continent="571" x="6667.04" y="-258.7" z="961.9">
+    <Connections />
+  </Node>
+  <Node name="丹尼弗蘭，風暴群山" continent="571" x="7308.04" y="-2607.6" z="814.8">
+    <Connections />
+  </Node>
+  <Node name="死亡高崗，寒冰皇冠" continent="571" x="7427.32" y="4224.16" z="314.11">
+    <Connections />
+  </Node>
+  <Node name="奧杜亞，風暴群山" continent="571" x="8864.74" y="-1324.33" z="1032.82">
+    <Connections />
+  </Node>
+  <Node name="石崖避難所，風暴群山" continent="571" x="8472.46" y="-335.95" z="906.48">
+    <Connections />
+  </Node>
+  <Node name="剛德拉克，祖爾德拉克" continent="571" master="30569" x="6897.65" y="-4118.23" z="467.35">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+      <Connection name="奈辛瓦里營地，休拉薩盆地" />
+      <Connection name="達拉然" />
+    </Connections>
+  </Node>
+  <Node name="暗影穹殿，寒冰皇冠" continent="571" x="8408.09" y="2702.66" z="655.11">
+    <Connections />
+  </Node>
+  <Node name="銀白先鋒駐地，寒冰皇冠" continent="571" x="6164.49" y="-61.31" z="388.18">
+    <Connections />
+  </Node>
+  <Node name="十字軍之巔，寒冰皇冠" continent="571" x="6402.06" y="467.86" z="511.29">
+    <Connections />
+  </Node>
+  <Node name="風行者瞰臺，水晶之歌森林" continent="571" x="5035.65" y="-519.96" z="225.41">
+    <Connections />
+  </Node>
+  <Node name="銀白聯賽場地，寒冰皇冠" continent="571" x="8475.79" y="891.2" z="547.29">
+    <Connections />
+  </Node>
+  <Node name="奈辛瓦里營地，休拉薩盆地" continent="571" master="28037" x="5596.1" y="5824.37" z="-67.73">
+    <Connections>
+      <Connection name="瓦爾加德港口，凜風峽灣" />
+      <Connection name="隘境之盾，凜懼島" />
+      <Connection name="溫特加德要塞，龍骨荒野" />
+      <Connection name="驍勇要塞，北風凍原" />
+      <Connection name="嘶軸簡易機場，北風凍原" />
+      <Connection name="繁星之眠，龍骨荒野" />
+      <Connection name="琥珀松小屋，灰白之丘" />
+      <Connection name="西荒兵團，灰白之丘" />
+      <Connection name="琥珀岩臺，北風凍原" />
+      <Connection name="銀白看臺，祖爾德拉克" />
+      <Connection name="黯黑守望，祖爾德拉克" />
+      <Connection name="聖光止境，祖爾德拉克" />
+      <Connection name="大河之心，休拉薩盆地" />
+      <Connection name="達拉然" />
+      <Connection name="剛德拉克，祖爾德拉克" />
+    </Connections>
+  </Node>
+</FlightNodes>

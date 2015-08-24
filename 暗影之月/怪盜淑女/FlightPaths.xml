@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlightNodes>
+  <Node name="落月之地 (聯盟)，影月谷" continent="1116" master="81103" x="1866.56" y="219.467" z="77.5279">
+    <Connections>
+      <Connection name="安伯瑞村，影月谷" />
+      <Connection name="暮光林地，影月谷" />
+      <Connection name="光明之路，影月谷" />
+      <Connection name="流放者高地，影月谷" />
+      <Connection name="血槌熔渣礦場，霜火峰" />
+      <Connection name="暴風之盾 (聯盟)，艾斯蘭" />
+      <Connection name="贊格拉，塔拉多爾" />
+      <Connection name="烏瑞恩堡 (聯盟)，塔拉多爾" />
+      <Connection name="救贖高崗，塔拉多爾" />
+      <Connection name="撒塔斯城，塔拉多爾" />
+      <Connection name="隱士的居所，塔拉多爾" />
+      <Connection name="泰洛卡避難所，塔拉多爾" />
+      <Connection name="達克瑞姆，影月谷" />
+      <Connection name="埃羅多爾 (聯盟)，影月谷" />
+      <Connection name="索奎薩爾高地，影月谷" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="試煉競技場，納葛蘭" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="伊芮爾崗哨，納葛蘭" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="鴉爪崗哨，阿拉卡山" />
+      <Connection name="急嘯零件廠，阿拉卡山" />
+      <Connection name="烏鴉鉤，阿拉卡山" />
+      <Connection name="荒林小徑，格古隆德" />
+      <Connection name="高地之路，格古隆德" />
+      <Connection name="深根林，格古隆德" />
+      <Connection name="鋼鐵軍火廠，霜火峰" />
+      <Connection name="暗潮棲息地，影月谷" />
+      <Connection name="靜謐庭院，影月谷" />
+      <Connection name="永茂林野地，格古隆德" />
+      <Connection name="亞吉塔的小屋，影月谷" />
+      <Connection name="里茲特的營地，納葛蘭" />
+      <Connection name="喬茲的萊拉克，納葛蘭" />
+      <Connection name="永茂林瞰臺，格古隆德" />
+      <Connection name="雄獅堡，塔南森林" />
+      <Connection name="馬洛守望，塔南森林" />
+    </Connections>
+  </Node>
+  <Node name="安伯瑞村，影月谷" continent="1116" x="918.264" y="-792.361" z="-28.8338">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="暮光林地，影月谷" continent="1116" x="195.236" y="-459.2" z="-3.95986">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="光明之路，影月谷" continent="1116" x="602.698" y="-1710.45" z="26.4837">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="流放者高地，影月谷" continent="1116" x="1526.38" y="-788.891" z="43.0647">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="血槌熔渣礦場，霜火峰" continent="1116" x="7399.45" y="4358.41" z="126.406">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="暴風之盾 (聯盟)，艾斯蘭" continent="1116" x="3685.15" y="-3840.47" z="44.9819">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="贊格拉，塔拉多爾" continent="1116" x="3418.78" y="1040.15" z="178.085">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="烏瑞恩堡 (聯盟)，塔拉多爾" continent="1116" x="3576.81" y="1669.4" z="172.792">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="救贖高崗，塔拉多爾" continent="1116" x="3407.73" y="2062" z="160.398">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="撒塔斯城，塔拉多爾" continent="1116" x="2727.16" y="2777" z="242.933">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="隱士的居所，塔拉多爾" continent="1116" x="2171.82" y="1059.22" z="112.517">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="懲戒崗哨，塔拉多爾" continent="1116" x="1378.4" y="3318.52" z="138.134">
+    <Connections />
+  </Node>
+  <Node name="主教避難所，塔拉多爾" continent="1116" x="1696.5" y="2561.35" z="133.659">
+    <Connections />
+  </Node>
+  <Node name="泰洛卡避難所，塔拉多爾" continent="1116" x="2158.65" y="1634.47" z="131.817">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="達克瑞姆，影月谷" continent="1116" x="128.569" y="-1555.75" z="31.4826">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="埃羅多爾 (聯盟)，影月谷" continent="1116" x="1240.2" y="-1666.43" z="44.8835">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="索奎薩爾高地，影月谷" continent="1116" x="-799.674" y="-671.424" z="107.102">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="南埠，阿拉卡山" continent="1116" x="-1117.45" y="2316.97" z="1.96073">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="試煉競技場，納葛蘭" continent="1116" x="3040.78" y="4783.08" z="128.275">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="元素王座，納葛蘭" continent="1116" x="3918.79" y="5131.45" z="62.728">
+    <Connections />
+  </Node>
+  <Node name="泰拉蕊哨站，納葛蘭" continent="1116" x="2594.25" y="5700.63" z="100.536">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="伊芮爾崗哨，納葛蘭" continent="1116" x="3384.17" y="5755.58" z="39.1851">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="維爾泰洛克，阿拉卡山" continent="1116" x="-398.988" y="1880.12" z="51.2684">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="鴉爪崗哨，阿拉卡山" continent="1116" x="-335.451" y="926.622" z="75.2153">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="急嘯零件廠，阿拉卡山" continent="1116" x="-1579.14" y="993.09" z="8.08963">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="堡壘高地，格古隆德" continent="1116" x="4552.27" y="1274.56" z="144.928">
+    <Connections />
+  </Node>
+  <Node name="頂尖挖掘場，阿拉卡山" continent="1116" x="387.542" y="2442.73" z="19.3169">
+    <Connections />
+  </Node>
+  <Node name="烏鴉鉤，阿拉卡山" continent="1116" x="128.615" y="1544.63" z="-1.72825">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="荒林小徑，格古隆德" continent="1116" x="6456.1" y="-174.755" z="120.071">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="高地之路，格古隆德" continent="1116" x="6352.58" y="746.234" z="116.163">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="破源者之冠，格古隆德" continent="1116" x="6593.43" y="1316.04" z="64.6343">
+    <Connections />
+  </Node>
+  <Node name="深根林，格古隆德" continent="1116" x="5412.85" y="1271.05" z="101.89">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="鋼鐵碼頭，格古隆德" continent="1116" x="8486.15" y="1544.24" z="78.8754">
+    <Connections />
+  </Node>
+  <Node name="鋼鐵軍火廠，霜火峰" continent="1116" x="5724.26" y="2163.64" z="157.575">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="暗潮棲息地，影月谷" continent="1116" x="-974.125" y="-1739.3" z="2.99791">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="天海山脊，格古隆德" continent="1116" x="7596.2" y="1829.05" z="79.0772">
+    <Connections />
+  </Node>
+  <Node name="靜謐庭院，影月谷" continent="1116" x="407.042" y="-2449.73" z="99.2637">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="卡拉伯爾神廟，影月谷" continent="1116" x="405.788" y="-2448.75" z="99.2643">
+    <Connections />
+  </Node>
+  <Node name="永茂林野地，格古隆德" continent="1116" x="7093.6" y="404.74" z="112.001">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="亞吉塔的小屋，影月谷" continent="1116" x="676.424" y="701.439" z="113.96">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="里茲特的營地，納葛蘭" continent="1116" x="3761.26" y="6430.15" z="21.6669">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="尼維克的瞰臺，納葛蘭" continent="1116" x="2053.66" y="6507.39" z="32.264">
+    <Connections />
+  </Node>
+  <Node name="喬茲的萊拉克，納葛蘭" continent="1116" x="3676.04" y="5776.19" z="45.4013">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="永茂林瞰臺，格古隆德" continent="1116" x="8018.09" y="-560.49" z="154.967">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="雄獅堡，塔南森林" continent="1116" x="3875.22" y="-1311.72" z="90.4673">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="阿克塔崗哨，塔南森林" continent="1116" x="4569.44" y="335.054" z="221.197">
+    <Connections />
+  </Node>
+  <Node name="鋼鐵前線，塔南森林" continent="1116" x="4074.97" y="1183.75" z="160.928">
+    <Connections />
+  </Node>
+  <Node name="大地穹殿，塔南森林" continent="1116" x="3475.28" y="-762.552" z="41.3906">
+    <Connections />
+  </Node>
+  <Node name="馬洛守望，塔南森林" continent="1116" x="4457.54" y="-574.693" z="49.3765">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+    </Connections>
+  </Node>
+  <Node name="夏納瑞營地，塔南森林" continent="1116" x="3728.38" y="157.931" z="56.1153">
+    <Connections />
+  </Node>
+</FlightNodes>

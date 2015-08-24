@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlightNodes>
+  <Node name="草生群，四風峽" continent="870" master="62658" x="460.54" y="-100.467" z="179.535">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="晨綻，翠玉林" continent="870" x="1503.71" y="-1832.13" z="246.2">
+    <Connections>
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="坡東村，翠玉林" continent="870" x="-307.2" y="-1762.77" z="61.5927">
+    <Connections>
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="落英園，翠玉林" continent="870" x="1600.66" y="-2530.27" z="152.212">
+    <Connections />
+  </Node>
+  <Node name="玉廟庭，翠玉林" continent="870" x="773.247" y="-2358.96" z="120.98">
+    <Connections />
+  </Node>
+  <Node name="斯里拉村，翠玉林" continent="870" x="2550.76" y="-2418.32" z="23.9507">
+    <Connections />
+  </Node>
+  <Node name="帝王之兆，翠玉林" continent="870" x="2400.75" y="-2099.43" z="228.034">
+    <Connections />
+  </Node>
+  <Node name="天僧寺，翠玉林" continent="870" x="2505.9" y="-1590.89" z="400.868">
+    <Connections />
+  </Node>
+  <Node name="珠鰭村，翠玉林" continent="870" x="-186.097" y="-2594.61" z="0.944614">
+    <Connections />
+  </Node>
+  <Node name="潘家莊，四風峽" continent="870" x="543.915" y="-637.814" z="257.775">
+    <Connections>
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="半丘市集，四風峽" continent="870" x="-221.326" y="464.559" z="185.442">
+    <Connections>
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="祝家守望站，喀撒朗蠻荒" continent="870" x="-375.684" y="-647.965" z="117.516">
+    <Connections />
+  </Node>
+  <Node name="侵略哨站，喀撒朗蠻荒" continent="870" x="-1125.31" y="-227.747" z="31.3673">
+    <Connections />
+  </Node>
+  <Node name="石犁村，四風峽" continent="870" x="-436.54" y="1886.7" z="131.13">
+    <Connections />
+  </Node>
+  <Node name="哨兵營地，喀撒朗蠻荒" continent="870" x="-1156.61" y="1770.38" z="16.989">
+    <Connections />
+  </Node>
+  <Node name="赤吉搖籃，喀撒朗蠻荒" continent="870" x="-2082.3" y="1483.63" z="0.550604">
+    <Connections />
+  </Node>
+  <Node name="瑪里斯塔，喀撒朗蠻荒" continent="870" x="-2504.09" y="491.583" z="2.33204">
+    <Connections />
+  </Node>
+  <Node name="濱南村，崑萊峰" continent="870" master="61474" x="1690.11" y="303.958" z="478.587">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="白虎寺，崑萊峰" continent="870" x="3504.04" y="690.677" z="608.185">
+    <Connections />
+  </Node>
+  <Node name="西風之眠，崑萊峰" continent="870" x="2103.35" y="1463.83" z="487.886">
+    <Connections />
+  </Node>
+  <Node name="驟晴村，崑萊峰" continent="870" x="4362.96" y="932.118" z="110.039">
+    <Connections />
+  </Node>
+  <Node name="獨罈集，崑萊峰" continent="870" x="3124.52" y="1224.28" z="654.231">
+    <Connections />
+  </Node>
+  <Node name="柯沓營地，崑萊峰" continent="870" master="60416" x="2716.43" y="2163.31" z="589.098">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="影潘後援地，崑萊峰" continent="870" x="1880.59" y="2088.58" z="500.854">
+    <Connections />
+  </Node>
+  <Node name="冬綻，崑萊峰" continent="870" master="61512" x="3151.85" y="2677.76" z="579.735">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="霧隱客棧，朦朧天梯" continent="870" master="61759" x="784.899" y="-203.67" z="402.192">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="長陰哨站，螳螂荒原" continent="870" master="62901" x="2363.23" y="2994.39" z="420.568">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="高仁前線，螳螂荒原" continent="870" master="62903" x="1440.72" y="2804.49" z="301.922">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="任賽看守站，螳螂荒原" continent="870" x="1531.73" y="3963.7" z="227.666">
+    <Connections />
+  </Node>
+  <Node name="影潘要塞，螳螂荒原" continent="870" x="1803.32" y="4204.23" z="157.508">
+    <Connections />
+  </Node>
+  <Node name="七星廟，恆春谷" continent="870" x="896.453" y="334.351" z="506.085">
+    <Connections />
+  </Node>
+  <Node name="卡拉西斐斯，悚然荒野" continent="870" master="63501" x="172.663" y="3152.25" z="215.54">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="蟠龍脊，恆春谷" />
+    </Connections>
+  </Node>
+  <Node name="濕佬的賭注，悚然荒野" continent="870" x="-1086.21" y="3136.19" z="0.9831">
+    <Connections />
+  </Node>
+  <Node name="日落釀酒園，悚然荒野" continent="870" x="982.677" y="3451.86" z="256.77">
+    <Connections />
+  </Node>
+  <Node name="蟠龍脊，恆春谷" continent="870" master="63497" x="611.365" y="2125.03" z="368.355">
+    <Connections>
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="坡東村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="半丘市集，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="柯沓營地，崑萊峰" />
+      <Connection name="冬綻，崑萊峰" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="長陰哨站，螳螂荒原" />
+      <Connection name="高仁前線，螳螂荒原" />
+      <Connection name="卡拉西斐斯，悚然荒野" />
+    </Connections>
+  </Node>
+  <Node name="蟠龍之望，翠玉林" continent="870" x="465.856" y="-1558.56" z="154.886">
+    <Connections />
+  </Node>
+  <Node name="潮間帶，悚然荒野" continent="870" x="-570.405" y="3859.79" z="0.734358">
+    <Connections />
+  </Node>
+  <Node name="雄獅壁壘，悚然荒野" continent="870" x="234.406" y="2198.03" z="271.477">
+    <Connections />
+  </Node>
+  <Node name="嗶啵的墜毀點，巨獸島" continent="870" x="5753.76" y="1255.55" z="1.51476">
+    <Connections />
+  </Node>
+  <Node name="永恆之島，土水平臺" continent="870" x="-901.37" y="-4639.12" z="4.96101">
+    <Connections />
+  </Node>
+  <Node name="落月之地 (聯盟)，影月谷" continent="1116" master="81103" x="1866.56" y="219.467" z="77.5279">
+    <Connections>
+      <Connection name="安伯瑞村，影月谷" />
+      <Connection name="贊格拉，塔拉多爾" />
+      <Connection name="烏瑞恩堡 (聯盟)，塔拉多爾" />
+      <Connection name="救贖高崗，塔拉多爾" />
+      <Connection name="撒塔斯城，塔拉多爾" />
+      <Connection name="隱士的居所，塔拉多爾" />
+      <Connection name="泰洛卡避難所，塔拉多爾" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="急嘯零件廠，阿拉卡山" />
+      <Connection name="烏鴉鉤，阿拉卡山" />
+      <Connection name="荒林小徑，格古隆德" />
+      <Connection name="高地之路，格古隆德" />
+      <Connection name="破源者之冠，格古隆德" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="安伯瑞村，影月谷" continent="1116" x="918.264" y="-792.361" z="-28.8338">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="暮光林地，影月谷" continent="1116" x="195.236" y="-459.2" z="-3.95986">
+    <Connections />
+  </Node>
+  <Node name="光明之路，影月谷" continent="1116" x="602.698" y="-1710.45" z="26.4837">
+    <Connections />
+  </Node>
+  <Node name="流放者高地，影月谷" continent="1116" x="1526.38" y="-788.891" z="43.0647">
+    <Connections />
+  </Node>
+  <Node name="血槌熔渣礦場，霜火峰" continent="1116" x="7399.45" y="4358.41" z="126.406">
+    <Connections />
+  </Node>
+  <Node name="暴風之盾 (聯盟)，艾斯蘭" continent="1116" x="3685.15" y="-3840.47" z="44.9819">
+    <Connections />
+  </Node>
+  <Node name="贊格拉，塔拉多爾" continent="1116" x="3418.78" y="1040.15" z="178.085">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="烏瑞恩堡 (聯盟)，塔拉多爾" continent="1116" x="3576.81" y="1669.4" z="172.792">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="救贖高崗，塔拉多爾" continent="1116" x="3407.73" y="2062" z="160.398">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="撒塔斯城，塔拉多爾" continent="1116" x="2727.16" y="2777" z="242.933">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="隱士的居所，塔拉多爾" continent="1116" x="2171.82" y="1059.22" z="112.517">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="懲戒崗哨，塔拉多爾" continent="1116" x="1378.4" y="3318.52" z="138.134">
+    <Connections />
+  </Node>
+  <Node name="主教避難所，塔拉多爾" continent="1116" x="1696.5" y="2561.35" z="133.659">
+    <Connections />
+  </Node>
+  <Node name="泰洛卡避難所，塔拉多爾" continent="1116" x="2158.65" y="1634.47" z="131.817">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="達克瑞姆，影月谷" continent="1116" x="128.569" y="-1555.75" z="31.4826">
+    <Connections />
+  </Node>
+  <Node name="埃羅多爾 (聯盟)，影月谷" continent="1116" x="1240.2" y="-1666.43" z="44.8835">
+    <Connections />
+  </Node>
+  <Node name="索奎薩爾高地，影月谷" continent="1116" x="-799.674" y="-671.424" z="107.102">
+    <Connections />
+  </Node>
+  <Node name="南埠，阿拉卡山" continent="1116" master="83567" x="-1117.45" y="2316.97" z="1.96073">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="安伯瑞村，影月谷" />
+      <Connection name="贊格拉，塔拉多爾" />
+      <Connection name="烏瑞恩堡 (聯盟)，塔拉多爾" />
+      <Connection name="救贖高崗，塔拉多爾" />
+      <Connection name="撒塔斯城，塔拉多爾" />
+      <Connection name="隱士的居所，塔拉多爾" />
+      <Connection name="泰洛卡避難所，塔拉多爾" />
+      <Connection name="急嘯零件廠，阿拉卡山" />
+      <Connection name="烏鴉鉤，阿拉卡山" />
+      <Connection name="荒林小徑，格古隆德" />
+      <Connection name="高地之路，格古隆德" />
+      <Connection name="破源者之冠，格古隆德" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="試煉競技場，納葛蘭" continent="1116" master="83924" x="3040.78" y="4783.08" z="128.275">
+    <Connections>
+      <Connection name="安伯瑞村，影月谷" />
+      <Connection name="贊格拉，塔拉多爾" />
+      <Connection name="烏瑞恩堡 (聯盟)，塔拉多爾" />
+      <Connection name="救贖高崗，塔拉多爾" />
+      <Connection name="撒塔斯城，塔拉多爾" />
+      <Connection name="隱士的居所，塔拉多爾" />
+      <Connection name="泰洛卡避難所，塔拉多爾" />
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="急嘯零件廠，阿拉卡山" />
+      <Connection name="烏鴉鉤，阿拉卡山" />
+      <Connection name="荒林小徑，格古隆德" />
+      <Connection name="高地之路，格古隆德" />
+      <Connection name="破源者之冠，格古隆德" />
+    </Connections>
+  </Node>
+  <Node name="元素王座，納葛蘭" continent="1116" x="3918.79" y="5131.45" z="62.728">
+    <Connections />
+  </Node>
+  <Node name="泰拉蕊哨站，納葛蘭" continent="1116" master="82309" x="2594.25" y="5700.63" z="100.536">
+    <Connections>
+      <Connection name="安伯瑞村，影月谷" />
+      <Connection name="贊格拉，塔拉多爾" />
+      <Connection name="烏瑞恩堡 (聯盟)，塔拉多爾" />
+      <Connection name="救贖高崗，塔拉多爾" />
+      <Connection name="撒塔斯城，塔拉多爾" />
+      <Connection name="隱士的居所，塔拉多爾" />
+      <Connection name="泰洛卡避難所，塔拉多爾" />
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="急嘯零件廠，阿拉卡山" />
+      <Connection name="烏鴉鉤，阿拉卡山" />
+      <Connection name="荒林小徑，格古隆德" />
+      <Connection name="高地之路，格古隆德" />
+      <Connection name="破源者之冠，格古隆德" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="伊芮爾崗哨，納葛蘭" continent="1116" x="3384.17" y="5755.58" z="39.1851">
+    <Connections />
+  </Node>
+  <Node name="維爾泰洛克，阿拉卡山" continent="1116" master="84498" x="-398.988" y="1880.12" z="51.2684">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="安伯瑞村，影月谷" />
+      <Connection name="贊格拉，塔拉多爾" />
+      <Connection name="烏瑞恩堡 (聯盟)，塔拉多爾" />
+      <Connection name="救贖高崗，塔拉多爾" />
+      <Connection name="撒塔斯城，塔拉多爾" />
+      <Connection name="隱士的居所，塔拉多爾" />
+      <Connection name="泰洛卡避難所，塔拉多爾" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="急嘯零件廠，阿拉卡山" />
+      <Connection name="烏鴉鉤，阿拉卡山" />
+      <Connection name="荒林小徑，格古隆德" />
+      <Connection name="高地之路，格古隆德" />
+      <Connection name="破源者之冠，格古隆德" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="鴉爪崗哨，阿拉卡山" continent="1116" x="-335.451" y="926.622" z="75.2153">
+    <Connections />
+  </Node>
+  <Node name="急嘯零件廠，阿拉卡山" continent="1116" x="-1579.14" y="993.09" z="8.08963">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="堡壘高地，格古隆德" continent="1116" x="4552.27" y="1274.56" z="144.928">
+    <Connections />
+  </Node>
+  <Node name="頂尖挖掘場，阿拉卡山" continent="1116" x="387.542" y="2442.73" z="19.3169">
+    <Connections />
+  </Node>
+  <Node name="烏鴉鉤，阿拉卡山" continent="1116" x="128.615" y="1544.63" z="-1.72825">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="荒林小徑，格古隆德" continent="1116" x="6456.1" y="-174.755" z="120.071">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="高地之路，格古隆德" continent="1116" x="6352.58" y="746.234" z="116.163">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="破源者之冠，格古隆德" continent="1116" x="6593.43" y="1316.04" z="64.6343">
+    <Connections>
+      <Connection name="落月之地 (聯盟)，影月谷" />
+      <Connection name="維爾泰洛克，阿拉卡山" />
+      <Connection name="南埠，阿拉卡山" />
+      <Connection name="泰拉蕊哨站，納葛蘭" />
+      <Connection name="試煉競技場，納葛蘭" />
+    </Connections>
+  </Node>
+  <Node name="深根林，格古隆德" continent="1116" x="5412.85" y="1271.05" z="101.89">
+    <Connections />
+  </Node>
+  <Node name="鋼鐵碼頭，格古隆德" continent="1116" x="8486.15" y="1544.24" z="78.8754">
+    <Connections />
+  </Node>
+  <Node name="鋼鐵軍火廠，霜火峰" continent="1116" x="5724.26" y="2163.64" z="157.575">
+    <Connections />
+  </Node>
+  <Node name="暗潮棲息地，影月谷" continent="1116" x="-974.125" y="-1739.3" z="2.99791">
+    <Connections />
+  </Node>
+  <Node name="天海山脊，格古隆德" continent="1116" x="7596.2" y="1829.05" z="79.0772">
+    <Connections />
+  </Node>
+  <Node name="靜謐庭院，影月谷" continent="1116" x="407.042" y="-2449.73" z="99.2637">
+    <Connections />
+  </Node>
+  <Node name="卡拉伯爾神廟，影月谷" continent="1116" x="405.788" y="-2448.75" z="99.2643">
+    <Connections />
+  </Node>
+  <Node name="永茂林野地，格古隆德" continent="1116" x="7093.6" y="404.74" z="112.001">
+    <Connections />
+  </Node>
+  <Node name="亞吉塔的小屋，影月谷" continent="1116" x="676.424" y="701.439" z="113.96">
+    <Connections />
+  </Node>
+  <Node name="里茲特的營地，納葛蘭" continent="1116" x="3761.26" y="6430.15" z="21.6669">
+    <Connections />
+  </Node>
+  <Node name="尼維克的瞰臺，納葛蘭" continent="1116" x="2053.66" y="6507.39" z="32.264">
+    <Connections />
+  </Node>
+  <Node name="喬茲的萊拉克，納葛蘭" continent="1116" x="3676.04" y="5776.19" z="45.4013">
+    <Connections />
+  </Node>
+  <Node name="永茂林瞰臺，格古隆德" continent="1116" x="8018.09" y="-560.49" z="154.967">
+    <Connections />
+  </Node>
+  <Node name="阿克塔崗哨，塔南森林" continent="1116" x="4569.44" y="335.054" z="221.197">
+    <Connections />
+  </Node>
+  <Node name="鋼鐵前線，塔南森林" continent="1116" x="4074.97" y="1183.75" z="160.928">
+    <Connections />
+  </Node>
+  <Node name="大地穹殿，塔南森林" continent="1116" x="3475.28" y="-762.552" z="41.3906">
+    <Connections />
+  </Node>
+  <Node name="馬洛守望，塔南森林" continent="1116" x="4457.54" y="-574.693" z="49.3765">
+    <Connections />
+  </Node>
+  <Node name="夏納瑞營地，塔南森林" continent="1116" x="3728.38" y="157.931" z="56.1153">
+    <Connections />
+  </Node>
+</FlightNodes>

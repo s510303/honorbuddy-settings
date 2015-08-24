@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DruidOffHealSettings>
+  <SavedToFile>True</SavedToFile>
+  <Rejuvenation>95</Rejuvenation>
+  <HealingTouch>70</HealingTouch>
+  <CenarionWard>80</CenarionWard>
+  <NaturesVigil>70</NaturesVigil>
+  <HeartOfTheWild>60</HeartOfTheWild>
+  <CountHeartOfTheWild>5</CountHeartOfTheWild>
+  <DreamOfCenariusAbovePercent>0</DreamOfCenariusAbovePercent>
+  <DreamOfCenariusAboveCount>1</DreamOfCenariusAboveCount>
+  <DreamOfCenariusCancelBelowHealthPercent>80</DreamOfCenariusCancelBelowHealthPercent>
+</DruidOffHealSettings>

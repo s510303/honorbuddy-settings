@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterSettings>
+  <SelectTalents>True</SelectTalents>
+  <ClassProfileName>Hunter - Beast Mastery</ClassProfileName>
+  <AutoEquip>True</AutoEquip>
+  <AutoEquipBags>True</AutoEquipBags>
+  <AutoEquipWeapons>True</AutoEquipWeapons>
+  <AutoEquipArmor>True</AutoEquipArmor>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <WeaponStyle>Automatic</WeaponStyle>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <TicksPerSecond>15</TicksPerSecond>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <EnabledPlugins>
+    <Entry>Anti Drown</Entry>
+    <Entry>Questhelper - ItemForAura</Entry>
+    <Entry>Refreshment Detection</Entry>
+    <Entry>▽惆劑脣璃▼逄秞惆劑脣璃</Entry>
+  </EnabledPlugins>
+  <RecentProfiles>
+    <Entry>[A - Quest] 85-86 The Jade Forest [Kick] ($Rev: 3678 $)@@!@@store:///1-100 Questing Profile Pack/MoP/[A - Quest] 85-86 The Jade Forest [Kick].xml</Entry>
+    <Entry>[Fly][N - Quest] Uldum 83-85 [Kick] ($Rev: 3872 $)@@!@@store:///1-100 Questing Profile Pack/Cata/[Fly][N - Quest] Uldum 83-85 [Kick].xml</Entry>
+    <Entry>[Fly][N - Quest] Deepholm 82-83 [Kick]($Rev: 3797 $)@@!@@D:\SVN\Questing Profile Pack\Cata\[Fly][N - Quest] Deepholm 82-84 [Kick].xml</Entry>
+    <Entry>[Fly][N - Quest] Deepholm 82-83 [Kick]($Rev: 3797 $)@@!@@store:///1-100 Questing Profile Pack/Cata/[Fly][N - Quest] Deepholm 82-84 [Kick].xml</Entry>
+    <Entry>[Fly][N - Quest] Hyjal 80-82 [Kick]($Rev: 3819 $)@@!@@store:///1-100 Questing Profile Pack/Cata/[Fly][N - Quest] Hyjal 80-82 [Kick].xml</Entry>
+  </RecentProfiles>
+  <OverrideProfileSettings>False</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>True</SellWhite>
+  <SellGreen>True</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <SelectedBotName>任务模式</SelectedBotName>
+  <UseFlightPaths>True</UseFlightPaths>
+  <FindMountAutomatically>False</FindMountAutomatically>
+  <UseRandomMount>False</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName>58268</FoodName>
+  <DrinkName>58256</DrinkName>
+  <MountName>訓練過的咆哮者</MountName>
+  <FlyingMountName>歐爾灰燼</FlyingMountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>100</PullDistance>
+  <LootRadius>45</LootRadius>
+  <LastUsedPath>store:///1-100 Questing Profile Pack/MoP/[A - Quest] 85-86 The Jade Forest [Kick].xml</LastUsedPath>
+  <MountDistance>60</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</CharacterSettings>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MonkOffHealSettings>
+  <SavedToFile>False</SavedToFile>
+  <SurgingMist>60</SurgingMist>
+  <ChiWaveTalent>60</ChiWaveTalent>
+  <ChiBurstTalent>60</ChiBurstTalent>
+  <CountChiWaveTalent>1</CountChiWaveTalent>
+  <CountChiBurstTalent>1</CountChiBurstTalent>
+</MonkOffHealSettings>

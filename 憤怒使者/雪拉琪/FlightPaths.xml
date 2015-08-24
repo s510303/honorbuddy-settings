@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlightNodes>
+  <Node name="甘露村，翠玉林" continent="870" master="66227" x="2927.16" y="-509.184" z="268.856">
+    <Connections>
+      <Connection name="葛魯山丘，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="東風之眠，崑萊峰" />
+    </Connections>
+  </Node>
+  <Node name="晨綻，翠玉林" continent="870" x="1503.71" y="-1832.13" z="246.2">
+    <Connections>
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="東風之眠，崑萊峰" />
+    </Connections>
+  </Node>
+  <Node name="落英園，翠玉林" continent="870" x="1600.66" y="-2530.27" z="152.212">
+    <Connections />
+  </Node>
+  <Node name="玉廟庭，翠玉林" continent="870" x="773.247" y="-2358.96" z="120.98">
+    <Connections />
+  </Node>
+  <Node name="斯里拉村，翠玉林" continent="870" x="2550.76" y="-2418.32" z="23.9507">
+    <Connections />
+  </Node>
+  <Node name="帝王之兆，翠玉林" continent="870" x="2400.75" y="-2099.43" z="228.034">
+    <Connections />
+  </Node>
+  <Node name="天僧寺，翠玉林" continent="870" x="2505.9" y="-1590.89" z="400.868">
+    <Connections />
+  </Node>
+  <Node name="潘家莊，四風峽" continent="870" master="60230" x="543.915" y="-637.814" z="257.775">
+    <Connections>
+      <Connection name="葛魯山丘，翠玉林" />
+      <Connection name="甘露村，翠玉林" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="東風之眠，崑萊峰" />
+    </Connections>
+  </Node>
+  <Node name="半丘市集，四風峽" continent="870" x="-221.326" y="464.559" z="185.442">
+    <Connections />
+  </Node>
+  <Node name="祝家守望站，喀撒朗蠻荒" continent="870" x="-375.684" y="-647.965" z="117.516">
+    <Connections />
+  </Node>
+  <Node name="雷霆斷崖，喀撒朗蠻荒" continent="870" x="-878.276" y="171.403" z="13.4901">
+    <Connections />
+  </Node>
+  <Node name="石犁村，四風峽" continent="870" x="-436.54" y="1886.7" z="131.13">
+    <Connections />
+  </Node>
+  <Node name="曦逐者居所，喀撒朗蠻荒" continent="870" x="-1685.68" y="1590.34" z="16.1384">
+    <Connections />
+  </Node>
+  <Node name="赤吉搖籃，喀撒朗蠻荒" continent="870" x="-2082.3" y="1483.63" z="0.550604">
+    <Connections />
+  </Node>
+  <Node name="瑪里斯塔，喀撒朗蠻荒" continent="870" x="-2504.09" y="491.583" z="2.33204">
+    <Connections />
+  </Node>
+  <Node name="濱南村，崑萊峰" continent="870" master="61474" x="1690.11" y="303.958" z="478.587">
+    <Connections>
+      <Connection name="葛魯山丘，翠玉林" />
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="甘露村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="東風之眠，崑萊峰" />
+    </Connections>
+  </Node>
+  <Node name="白虎寺，崑萊峰" continent="870" x="3504.04" y="690.677" z="608.185">
+    <Connections />
+  </Node>
+  <Node name="東風之眠，崑萊峰" continent="870" master="61745" x="2250.59" y="931.569" z="481.146">
+    <Connections>
+      <Connection name="葛魯山丘，翠玉林" />
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="甘露村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="草生群，四風峽" />
+    </Connections>
+  </Node>
+  <Node name="驟晴村，崑萊峰" continent="870" x="4362.96" y="932.118" z="110.039">
+    <Connections />
+  </Node>
+  <Node name="獨罈集，崑萊峰" continent="870" x="3124.52" y="1224.28" z="654.231">
+    <Connections />
+  </Node>
+  <Node name="柯沓營地，崑萊峰" continent="870" x="2716.43" y="2163.31" z="589.098">
+    <Connections />
+  </Node>
+  <Node name="影潘後援地，崑萊峰" continent="870" x="1880.59" y="2088.58" z="500.854">
+    <Connections />
+  </Node>
+  <Node name="冬綻，崑萊峰" continent="870" x="3151.85" y="2677.76" z="579.735">
+    <Connections />
+  </Node>
+  <Node name="霧隱客棧，朦朧天梯" continent="870" master="61759" x="784.899" y="-203.67" z="402.192">
+    <Connections>
+      <Connection name="葛魯山丘，翠玉林" />
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="甘露村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="東風之眠，崑萊峰" />
+    </Connections>
+  </Node>
+  <Node name="草生群，四風峽" continent="870" master="62658" x="460.54" y="-100.467" z="179.535">
+    <Connections>
+      <Connection name="葛魯山丘，翠玉林" />
+      <Connection name="晨綻，翠玉林" />
+      <Connection name="甘露村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="東風之眠，崑萊峰" />
+    </Connections>
+  </Node>
+  <Node name="長陰哨站，螳螂荒原" continent="870" x="2363.23" y="2994.39" z="420.568">
+    <Connections />
+  </Node>
+  <Node name="高仁前線，螳螂荒原" continent="870" x="1440.72" y="2804.49" z="301.922">
+    <Connections />
+  </Node>
+  <Node name="任賽看守站，螳螂荒原" continent="870" x="1531.73" y="3963.7" z="227.666">
+    <Connections />
+  </Node>
+  <Node name="影潘要塞，螳螂荒原" continent="870" x="1803.32" y="4204.23" z="157.508">
+    <Connections />
+  </Node>
+  <Node name="雙月廟，恆春谷" continent="870" x="1580.16" y="894.167" z="473.964">
+    <Connections />
+  </Node>
+  <Node name="卡拉西斐斯，悚然荒野" continent="870" x="172.663" y="3152.25" z="215.54">
+    <Connections />
+  </Node>
+  <Node name="濕佬的賭注，悚然荒野" continent="870" x="-1086.21" y="3136.19" z="0.9831">
+    <Connections />
+  </Node>
+  <Node name="日落釀酒園，悚然荒野" continent="870" x="982.677" y="3451.86" z="256.77">
+    <Connections />
+  </Node>
+  <Node name="蟠龍脊，恆春谷" continent="870" x="611.365" y="2125.03" z="368.355">
+    <Connections />
+  </Node>
+  <Node name="蟠龍之望，翠玉林" continent="870" x="465.856" y="-1558.56" z="154.886">
+    <Connections />
+  </Node>
+  <Node name="潮間帶，悚然荒野" continent="870" x="-570.405" y="3859.79" z="0.734358">
+    <Connections />
+  </Node>
+  <Node name="蟠龍脊，崑萊峰" continent="870" x="2123.15" y="2584.93" z="542.25">
+    <Connections />
+  </Node>
+  <Node name="波索的墜毀點，巨獸島" continent="870" x="5799.64" y="1080.57" z="1.13505">
+    <Connections />
+  </Node>
+  <Node name="永恆之島，火金平臺" continent="870" x="-404.95" y="-4608.56" z="4.3335">
+    <Connections />
+  </Node>
+  <Node name="葛魯山丘，翠玉林" continent="870" master="60952" x="1418.57" y="-487.703" z="355.96">
+    <Connections>
+      <Connection name="甘露村，翠玉林" />
+      <Connection name="潘家莊，四風峽" />
+      <Connection name="草生群，四風峽" />
+      <Connection name="霧隱客棧，朦朧天梯" />
+      <Connection name="濱南村，崑萊峰" />
+      <Connection name="東風之眠，崑萊峰" />
+    </Connections>
+  </Node>
+</FlightNodes>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HotkeySettings>
+  <SavedToFile>False</SavedToFile>
+  <LogMarkKey>M, Shift, Control, Alt</LogMarkKey>
+  <ChatFrameMessage>True</ChatFrameMessage>
+  <ChatFrameMessageDuration>2500</ChatFrameMessageDuration>
+  <KeysToggleBehavior>True</KeysToggleBehavior>
+  <AoeToggle>None</AoeToggle>
+  <CombatToggle>None</CombatToggle>
+  <MovementToggle>None</MovementToggle>
+  <PullMoreToggle>None</PullMoreToggle>
+  <SuspendMovement>False</SuspendMovement>
+  <SuspendDuration>3</SuspendDuration>
+</HotkeySettings>
