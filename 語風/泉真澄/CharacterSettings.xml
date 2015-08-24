@@ -38,7 +38,7 @@
   <MailBlue>False</MailBlue>
   <MailPurple>False</MailPurple>
   <IgnoreCheckpoints>False</IgnoreCheckpoints>
-  <SelectedBotName>任务模式</SelectedBotName>
+  <SelectedBotName>Garrisonbuddy</SelectedBotName>
   <UseFlightPaths>True</UseFlightPaths>
   <FindMountAutomatically>True</FindMountAutomatically>
   <UseRandomMount>False</UseRandomMount>
@@ -56,7 +56,7 @@
   <UseMount>True</UseMount>
   <PullDistance>100</PullDistance>
   <LootRadius>45</LootRadius>
-  <LastUsedPath>D:\腳本\[QB] Master Relic Hunter.xml</LastUsedPath>
+  <LastUsedPath>D:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
   <MountDistance>60</MountDistance>
   <RessAtSpiritHealers>False</RessAtSpiritHealers>
 </CharacterSettings>

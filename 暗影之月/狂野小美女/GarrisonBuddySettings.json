@@ -1,14 +1,14 @@
 {
   "EndOfRunParkingLocation": {
-    "X": 0,
-    "Y": 0,
-    "Z": 0,
-    "MagnitudeSqr": 3580304.25,
-    "Magnitude": 1892.16919
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "MagnitudeSqr": 0.0,
+    "Magnitude": 0.0
   },
   "MinimumFreeBagSlots": 2,
   "MailCollectedItems": true,
-  "BankCollectedItems": true,
+  "BankCollectedItems": false,
   "OpenItemTokens": true,
   "SolveArchaeology": false,
   "EnableFollowerUpgrading": false,

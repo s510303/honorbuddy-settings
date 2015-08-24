@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CharacterSettings>
   <SelectTalents>True</SelectTalents>
-  <ClassProfileName>Priest - Holy</ClassProfileName>
+  <ClassProfileName>Priest - Shadow</ClassProfileName>
   <AutoEquip>True</AutoEquip>
   <AutoEquipBags>True</AutoEquipBags>
   <AutoEquipWeapons>True</AutoEquipWeapons>
@@ -37,7 +37,7 @@
   <MailBlue>False</MailBlue>
   <MailPurple>False</MailPurple>
   <IgnoreCheckpoints>False</IgnoreCheckpoints>
-  <SelectedBotName>LazyRaider</SelectedBotName>
+  <SelectedBotName>Garrisonbuddy</SelectedBotName>
   <UseFlightPaths>True</UseFlightPaths>
   <FindMountAutomatically>True</FindMountAutomatically>
   <UseRandomMount>False</UseRandomMount>
@@ -55,7 +55,7 @@
   <UseMount>True</UseMount>
   <PullDistance>100</PullDistance>
   <LootRadius>45</LootRadius>
-  <LastUsedPath>E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
+  <LastUsedPath>D:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
   <MountDistance>60</MountDistance>
   <RessAtSpiritHealers>False</RessAtSpiritHealers>
 </CharacterSettings>

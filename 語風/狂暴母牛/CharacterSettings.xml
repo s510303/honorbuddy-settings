@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CharacterSettings>
   <SelectTalents>True</SelectTalents>
-  <ClassProfileName>Druid - Balance</ClassProfileName>
+  <ClassProfileName>Druid - Guardian</ClassProfileName>
   <AutoEquip>True</AutoEquip>
   <AutoEquipBags>True</AutoEquipBags>
   <AutoEquipWeapons>True</AutoEquipWeapons>

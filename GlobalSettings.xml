@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GlobalSettings>
-  <UICulture>zh-Hans</UICulture>
-  <UseFrameLock>True</UseFrameLock>
+  <KillBetweenHotspots>False</KillBetweenHotspots>
+  <!--Whether or not we should log out after the bot has detected inactivity.-->
+  <LogoutForInactivity>False</LogoutForInactivity>
+  <SeperatedLogFolders>True</SeperatedLogFolders>
+  <MinimizeToTray>False</MinimizeToTray>
   <CharacterDetailsInTitle>False</CharacterDetailsInTitle>
+  <MeshesFolderPath>E:\Honorbuddy 2.5.14244.797\MAP</MeshesFolderPath>
+  <UseFrameLock>True</UseFrameLock>
+  <UICulture>zh-Hans</UICulture>
   <SendUsageInformation>False</SendUsageInformation>
   <CombatRoutinesPath>Routines</CombatRoutinesPath>
   <ReloadRoutinesOnFileChange>False</ReloadRoutinesOnFileChange>
@@ -11,17 +17,11 @@
   <BotsPath>Bots</BotsPath>
   <ReloadBotsOnFileChange>False</ReloadBotsOnFileChange>
   <QuestBehaviorsPath>Quest Behaviors</QuestBehaviorsPath>
-  <Username>KSCO1fB1e8nGOhHhH3XU1uv9DwFF9ZbCWra7DtIxk/g=</Username>
-  <MinimizeToTray>False</MinimizeToTray>
-  <MeshesFolderPath>E:\Honorbuddy 2.5.14244.797\MAP</MeshesFolderPath>
-  <KillBetweenHotspots>False</KillBetweenHotspots>
+  <Username>KSCO1fB1e8nGOhHhH3XU1hLQYKKoj4eFx6t0X9zwQGE=</Username>
   <AdvancedSettingsMode>True</AdvancedSettingsMode>
-  <!--Whether or not we should log out after the bot has detected inactivity.-->
-  <LogoutForInactivity>True</LogoutForInactivity>
   <!--Logs out after X minutes of inactivity.-->
   <LogoutInactivityTimer>20</LogoutInactivityTimer>
   <LogoutInactivityUseForceQuit>False</LogoutInactivityUseForceQuit>
   <ProfileDebuggingMode>False</ProfileDebuggingMode>
   <LogLevel>Normal</LogLevel>
-  <SeperatedLogFolders>True</SeperatedLogFolders>
 </GlobalSettings>

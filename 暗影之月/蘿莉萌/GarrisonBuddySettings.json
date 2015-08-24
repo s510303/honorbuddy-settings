@@ -1,10 +1,10 @@
 {
   "EndOfRunParkingLocation": {
-    "X": 0,
-    "Y": 0,
-    "Z": 0,
-    "MagnitudeSqr": 3581398.25,
-    "Magnitude": 1892.45825
+    "X": 0.0,
+    "Y": 0.0,
+    "Z": 0.0,
+    "MagnitudeSqr": 0.0,
+    "Magnitude": 0.0
   },
   "MinimumFreeBagSlots": 2,
   "MailCollectedItems": true,
@@ -552,7 +552,7 @@
     },
     {
       "Type": "SalvageYard",
-      "Enabled": true,
+      "Enabled": false,
       "IgnoreBankItems": false,
       "CollectShipments": true,
       "Tradeskills": null,

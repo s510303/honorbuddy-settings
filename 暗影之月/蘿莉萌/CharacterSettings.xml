@@ -1,45 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CharacterSettings>
-  <RessAtSpiritHealers>False</RessAtSpiritHealers>
-  <TicksPerSecond>15</TicksPerSecond>
-  <AutoEquip>True</AutoEquip>
-  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
   <SelectTalents>True</SelectTalents>
-  <RollOnItems>True</RollOnItems>
-  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
-  <LootMobs>True</LootMobs>
-  <SkinMobs>False</SkinMobs>
-  <NinjaSkin>False</NinjaSkin>
-  <HarvestMinerals>True</HarvestMinerals>
-  <HarvestHerbs>False</HarvestHerbs>
-  <LootRadius>45</LootRadius>
-  <DrinkAmount>0</DrinkAmount>
-  <FoodAmount>0</FoodAmount>
-  <MailRecipient></MailRecipient>
-  <FoodName>111434</FoodName>
-  <DrinkName>111434</DrinkName>
-  <MountName>阿曼尼戰熊</MountName>
-  <FlyingMountName>黑暗鳳凰</FlyingMountName>
-  <UseRandomMount>False</UseRandomMount>
-  <MountDistance>60</MountDistance>
-  <OverrideProfileSettings>True</OverrideProfileSettings>
-  <SellGrey>True</SellGrey>
-  <SellWhite>False</SellWhite>
-  <SellGreen>False</SellGreen>
-  <SellBlue>False</SellBlue>
-  <SellPurple>False</SellPurple>
-  <MailGrey>False</MailGrey>
-  <MailWhite>False</MailWhite>
-  <MailGreen>False</MailGreen>
-  <MailBlue>False</MailBlue>
-  <MailPurple>False</MailPurple>
-  <IgnoreCheckpoints>False</IgnoreCheckpoints>
   <ClassProfileName>Warrior - Fury</ClassProfileName>
+  <AutoEquip>True</AutoEquip>
   <AutoEquipBags>True</AutoEquipBags>
   <AutoEquipWeapons>True</AutoEquipWeapons>
   <AutoEquipArmor>True</AutoEquipArmor>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
   <WeaponStyle>Automatic</WeaponStyle>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
   <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
+  <TicksPerSecond>15</TicksPerSecond>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
   <EnabledPlugins>
     <Entry>Anti Drown</Entry>
     <Entry>Questhelper - ItemForAura</Entry>
@@ -53,11 +27,37 @@
     <Entry>[H - Quest] 96-98 Arak [Kick] ($Rev: 3710 $)@@!@@store:///1-100 Questing Profile Pack/WoD/[H - Quest] 96-98 Arak [Kick].xml</Entry>
     <Entry>[A - Quest] 98-100 Nagrand [Kick] ($Rev: 3962 $)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 98-100 Nagrand [Kick].xml</Entry>
   </RecentProfiles>
+  <OverrideProfileSettings>True</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>False</MailBlue>
+  <MailPurple>False</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
   <SelectedBotName>Garrisonbuddy</SelectedBotName>
   <UseFlightPaths>True</UseFlightPaths>
   <FindMountAutomatically>True</FindMountAutomatically>
+  <UseRandomMount>False</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName>111434</FoodName>
+  <DrinkName>111434</DrinkName>
+  <MountName>阿曼尼戰熊</MountName>
+  <FlyingMountName>黑暗鳳凰</FlyingMountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
   <LootChests>True</LootChests>
+  <HarvestMinerals>True</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
   <UseMount>True</UseMount>
   <PullDistance>100</PullDistance>
+  <LootRadius>45</LootRadius>
   <LastUsedPath>E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
+  <MountDistance>60</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
 </CharacterSettings>

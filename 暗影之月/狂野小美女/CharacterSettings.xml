@@ -1,19 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CharacterSettings>
-  <SelectTalents>True</SelectTalents>
-  <ClassProfileName>Paladin - Protection</ClassProfileName>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+  <TicksPerSecond>15</TicksPerSecond>
   <AutoEquip>True</AutoEquip>
+  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
+  <SelectTalents>True</SelectTalents>
+  <RollOnItems>True</RollOnItems>
+  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <HarvestMinerals>True</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <LootRadius>45</LootRadius>
+  <DrinkAmount>0</DrinkAmount>
+  <FoodAmount>0</FoodAmount>
+  <MailRecipient></MailRecipient>
+  <FoodName>112449</FoodName>
+  <DrinkName>112449</DrinkName>
+  <MountName>阿曼尼戰熊</MountName>
+  <FlyingMountName>歐爾灰燼</FlyingMountName>
+  <UseRandomMount>False</UseRandomMount>
+  <MountDistance>60</MountDistance>
+  <OverrideProfileSettings>True</OverrideProfileSettings>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>False</MailGreen>
+  <MailBlue>False</MailBlue>
+  <MailPurple>False</MailPurple>
+  <IgnoreCheckpoints>False</IgnoreCheckpoints>
+  <ClassProfileName>Paladin - Protection</ClassProfileName>
   <AutoEquipBags>True</AutoEquipBags>
   <AutoEquipWeapons>True</AutoEquipWeapons>
   <AutoEquipArmor>True</AutoEquipArmor>
-  <AutoEquipBoEEpics>False</AutoEquipBoEEpics>
   <WeaponStyle>Automatic</WeaponStyle>
-  <RollOnItems>True</RollOnItems>
-  <RollDisenchantWhenGreed>True</RollDisenchantWhenGreed>
   <MaxBoEDisenchantQuality>Uncommon</MaxBoEDisenchantQuality>
-  <TicksPerSecond>15</TicksPerSecond>
-  <FoodAmount>0</FoodAmount>
-  <DrinkAmount>0</DrinkAmount>
   <EnabledPlugins>
     <Entry>Anti Drown</Entry>
     <Entry>CombatDismount</Entry>
@@ -21,43 +47,17 @@
     <Entry>Refreshment Detection</Entry>
   </EnabledPlugins>
   <RecentProfiles>
+    <Entry>2015 - Black Temple Run@@!@@D:\腳本\自製副本\Black Temple - Weekly Farm 2015v4.xml</Entry>
     <Entry>[A - Quest] EK 12-58 [Kick] ($Rev: 3946 $)@@!@@D:\SVN\Questing Profile Pack\Classic\[A - Quest] 1-58 [Kick]\[A - Quest] EK 12-58 [Kick].xml</Entry>
     <Entry>[A - Quest] 98-100 Nagrand [Kick] ($Rev: 3962 $)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 98-100 Nagrand [Kick].xml</Entry>
     <Entry>[A - Quest] 96-98 Arak [Kick] ($Rev: 3660$)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 96-98 Arak [Kick].xml</Entry>
     <Entry>[A - Quest] 94-96 Talador [Kick] ($Rev: 3947 $)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 94-96 Talador [Kick].xml</Entry>
-    <Entry>[A - Quest] 92-94 Gorgrond [Kick] ($Rev: 3963 $)@@!@@D:\SVN\Questing Profile Pack\WoD\[A - Quest] 92-94 Gorgrond [Kick].xml</Entry>
   </RecentProfiles>
-  <OverrideProfileSettings>True</OverrideProfileSettings>
-  <SellGrey>True</SellGrey>
-  <SellWhite>False</SellWhite>
-  <SellGreen>True</SellGreen>
-  <SellBlue>True</SellBlue>
-  <SellPurple>False</SellPurple>
-  <MailGrey>False</MailGrey>
-  <MailWhite>False</MailWhite>
-  <MailGreen>False</MailGreen>
-  <MailBlue>True</MailBlue>
-  <MailPurple>True</MailPurple>
-  <IgnoreCheckpoints>False</IgnoreCheckpoints>
-  <SelectedBotName>Garrisonbuddy</SelectedBotName>
+  <SelectedBotName>任务模式</SelectedBotName>
   <UseFlightPaths>True</UseFlightPaths>
   <FindMountAutomatically>True</FindMountAutomatically>
-  <UseRandomMount>False</UseRandomMount>
-  <MailRecipient></MailRecipient>
-  <FoodName>112449</FoodName>
-  <DrinkName>112449</DrinkName>
-  <MountName>阿曼尼戰熊</MountName>
-  <FlyingMountName>歐爾灰燼</FlyingMountName>
-  <LootMobs>True</LootMobs>
-  <SkinMobs>False</SkinMobs>
-  <NinjaSkin>False</NinjaSkin>
   <LootChests>True</LootChests>
-  <HarvestMinerals>True</HarvestMinerals>
-  <HarvestHerbs>False</HarvestHerbs>
   <UseMount>True</UseMount>
   <PullDistance>100</PullDistance>
-  <LootRadius>45</LootRadius>
-  <LastUsedPath>E:\Honorbuddy 2.5.14244.797\Default Profiles\Questing Profile Pack\Auto Loader.xml</LastUsedPath>
-  <MountDistance>60</MountDistance>
-  <RessAtSpiritHealers>True</RessAtSpiritHealers>
+  <LastUsedPath>D:\腳本\自製副本\Black Temple - Weekly Farm 2015v4.xml</LastUsedPath>
 </CharacterSettings>
